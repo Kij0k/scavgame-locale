@@ -696,7 +696,7 @@
         "geotreedsc": "Jest jak gąbka! Ma liścio-podobne rzeczy w kształcie figur geometrycznych.",
         "glowplant": "Świetlina",
         "glowplantdsc": "Zielona roślina o właściwościach bioluminescencyjnych. Wygląda na to, że tutejsze środowisko nie zaszkodziło tej roślinie.",
-        "mushlight": "Mushlight <TMP>",
+        "mushlight": "Mushlight",
         "mushlightdsc": "Some kind of bioluminescent plant.",
         "jumppad": "Stara maszyna",
         "jumppaddsc": "Wystaje z niej płytka naciskowa.",
@@ -777,7 +777,7 @@
         "turretdsc": "Wygląda na to że ma czujnik termiczny.",
         "ceilingturret": "Sufitowe działo strażnicze",
         "ceilingturretdsc": "Wygląda na to że ma jakiś czujnik, albo ruchu albo termiczny... Może dasz radę jakoś przemknąć się pod nim?",
-        "grate": "Krata <TMP>",
+        "grate": "Krata",
         "gratedsc": "",
         "stalagmite": "Stalagmit",
         "stalagmitedsc": "Na szczęście spikulec jest stępiony.",
@@ -796,7 +796,7 @@
         "crimsonbushdsc": "Jesteś tak blisko potencjalnej wolności, a jednak spędzasz czas podziwiając krzaki.",
         "crimsontree": "Szkarłatne drzewo",
         "crimsontreedsc": "Drzewo. Ale czerwone. Nie masz lepszych rzeczy do zwrócenia uwagi?",
-        "pussack": "Wór ropy <TMP>",
+        "pussack": "Wór ropy",
         "pussackdsc": "Wygląda na żywy. Ochydne. Ale może użyteczne?",
         "brownshroom": "Brązowy grzyb",
         "brownshroomdsc": "Nie wiesz o nim nic, poza tym, że jest brązowy.",
@@ -1292,7 +1292,7 @@
         "heatedrock": "Podgrzany kamień",
         "obsidian": "Obsydian",
         "gabbro": "Gabro",
-        "mantle": "Płaszcz <TMP> // pasuje i że planety i że ciuch... teoretycznie?",
+        "mantle": "Płaszcz",
         "crimsongrass": "Szkarłatna trawa",
         "mush": "Papka",
         "lrdserum": "Surowica do U.R.M.",
@@ -4099,7 +4099,7 @@
                 "...Www-wh...what..? What? Why? What just... Why am I back here..? Hnn... What just happened..."
             ],
             "endlessloop1": [
-                "...This is not going like I hoped it would...I don't know what else I could do... Well. Ugh. Third time's the charm, I guess..? <TMP>"
+                "...This is not going like I hoped it would...I don't know what else I could do... Well. Ugh. Third time's the charm, I guess..?"
             ],
             "endlessloop2": [
                 "<spoiler>"
