@@ -602,7 +602,7 @@
         "minibarrel": "Mini-beczka",
         "minibarreldsc": "Mała beczka przemysłowa służąca do przechowywania cieczy. Niesamowicie ciężka i niepraktyczna w użyciu.",
         "peglimb": "Drewniana proteza",
-        "peglimbdsc": "Prowizoryczna drewniana proteza do wymienienia utraconej kończyny. Mniej efektywna od zwykłej kończyny i podatna na zniszczenia. Naprawiana kawałkami drewna. Użyj na klatce piersiowej/brzuchu aby przymocować. 7 INT wymagane aby z pewnością przymocować",
+        "peglimbdsc": "Prowizoryczna drewniana proteza do wymienienia utraconej kończyny. Mniej efektywna od zwykłej kończyny i podatna na zniszczenia. Naprawiana kawałkami drewna. Użyj na klatce piersiowej/brzuchu aby przymocować. 7 INT wymagane aby z pewnością przymocować.",
         "steelprosthesis": "Stalowa proteza",
         "steelprosthesisdsc": "Metalowa proteza do wymienienia utraconej kończyny. W większości równa normalnej kończynie. Naprawiana stalowym złomem. Użyj na klatce piersiowej/brzuchu aby przymocować. 10 INT wymagane aby z pewnością przymocować.",
         "peo": "Kończyna P.Z.S",
@@ -868,8 +868,8 @@
         "guarddsc": "One of the blue coats.",
         "terminal": "Komputer",
         "terminaldsc": "Stary komputer z ekranem.",
-        "macrofleshrebuilder": "Makro regenerator tkanek",
-        "macrofleshrebuilderdsc": "Jakiegoś rodzaju skomplikowane narzędzie chirurgiczne. Chyba jakoś uda ci się domyśleć jak go użyć."
+        "macrofleshrebuilder": "Makro rekonstruktor tkanek",
+        "macrofleshrebuilderdsc": "Jakiegoś rodzaju skomplikowane narzędzie chirurgiczne. Chyba jakoś uda ci się domyślić jak go użyć."
     },
     "moodles": {
         "braindamage4": "Śpiączka",
@@ -1070,7 +1070,7 @@
         "hypotension4dsc": "Śmiertelnie niskie ciśnienie krwi. Krew nie dociera do twoich narządów. Niedotlenienie mózgu i śmierć bliskie.",
         "hypertension1dsc": "Lekko zwiększone ciśnienie krwi.",
         "hypertension2dsc": "Umiarkowanie zwiększone ciśnienie krwi. Boli cię głowa i kręci ci się w głowie. Sprawdź swoje znaki życiowe.",
-        "hypertension3dsc": "Niebezpiecznie zwiększone ciśnienie krwi, za niedługo powodując poważnymi komplikacjami zdrowotnymi. Czujesz się okropnie. Sprawdź swoje znaki życiowe.",
+        "hypertension3dsc": "Niebezpiecznie zwiększone ciśnienie krwi, wkrótce powodując poważne komplikacje zdrowotne. Czujesz się okropnie. Sprawdź swoje znaki życiowe.",
         "hypertension4dsc": "Ciśnienie krwi zagrażające życiu. Ryzyko udaru. Bezzwłocznie sprawdź swoje znaki życiowe i prowadź obserwacje pod kątem oznak udaru.",
         "venom1dsc": "Obecność niewielkich ilości hemotoksyny w krwiobiegu. Czy coś cię ugryzło?",
         "venom2dsc": "Hemotoksyna obecna w krwiobiegu, osłabiając krzepnięcie krwi i niszcząc krwinki. Sprawdź swoje znaki życiowe.",
@@ -1212,7 +1212,7 @@
         "impendingdoomdsc": "Odczuwasz nagły, przytłaczający strach. Pokrywa cię gęsia skórka. Natura wokół ciebie wydaje się nagle zamilknąć...",
         "horrifieddsc": "BRAK SKUPIENIA. BRAK MYŚLI. NIC WIĘCEJ NIE MA ZNACZENIA. UCIEKAJ ZA SWOJE ŻYCIE ALBO O NIE WALCZ!",
         "focuseddsc": "<i>Oboje dziś umrzemy. Ale jeden trochę później od drugiego.",
-        "focuseddscalt": "<i>Nadszedł czas aby odzyskać są wolność.",
+        "focuseddscalt": "<i>Nadszedł czas aby uzyskać swą wolność.",
         "cargodsc": "The look is disturbing and the feeling is monstrously uncomfortable, yet you feel empowered...",
         "prosthesisdsc": "Jest do ciebie przymocowana proteza. Kończyny prostetyczne nie krwawią ani nie odczuwają bólu, ale muszą być odbudowywane za pomocą ich materiału naprawczego jeśli zostaną uszkodzone.",
         "loosescrewsdsc": "Któraś z twoich protez się poluzowała, powodując uszkodzenia materiału podczas ruchu. Mogło to być spowodowane odłamkami albo krytycznym ubytkiem materiału.",
