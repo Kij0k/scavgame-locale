@@ -1215,7 +1215,7 @@
         "focuseddscalt": "<i>Nadszedł czas aby uzyskać swą wolność.",
         "cargodsc": "The look is disturbing and the feeling is monstrously uncomfortable, yet you feel empowered...",
         "prosthesisdsc": "Jest do ciebie przymocowana proteza. Kończyny prostetyczne nie krwawią ani nie odczuwają bólu, ale muszą być odbudowywane za pomocą ich materiału naprawczego jeśli zostaną uszkodzone.",
-        "loosescrewsdsc": "Któraś z twoich protez się poluzowała, powodując uszkodzenia materiału podczas ruchu. Mogło to być spowodowane odłamkami albo krytycznym ubytkiem materiału.",
+        "loosescrewsdsc": "Któraś z twoich protez się poluzowała, powodując uszkodzenia materiałowe podczas ruchu. Mogło to być spowodowane odłamkami albo krytycznym ubytkiem materiału.",
         "bentprosthesisdsc": "Któraś z twoich protez mocno się odkształciła, uniemożliwiając jej użytkowanie i sprawiając że nie da się jej normalnie naprawić. Napraw używając jakiegokolwiek klucza.",
         "materiallossdsc": "Któraś z twoich protez ma duże pęknięcie prowadzące przez jej środek, uniemożliwiając jej użytkowanie i narażając ją na kompletne odłamanie. Napraw za pomocą materiału naprawczego."
     },
@@ -1846,7 +1846,7 @@
         "aedMinigameGuide": "Postępuj zgodnie z wyświetlanymi instrukcjami.",
         "manualDefibMinigameGuide": "Dopasuj ładunek proporcjonalnie do etapu rozwinięcia migotania, naładuj, a następnie wywołaj wstrząs. Powtórz, jeśli trzeba.\nSugerowana wartość (POW.EST) staje się dokładniejsza wraz ze wzrostem poziomu INT",
         "handCrankMinigameGuide": "Złap za korbkę i obracaj ją, aby ładować.",
-        "prosthesisMinigameGuide": "Wzmocnij protezę używając kawałków wskazanych materiałów.",
+        "prosthesisMinigameGuide": "Wzmocnij protezę używając kawałków określonych materiałów.",
         "aedstate0": "Umieść elektrody w określonych miejscach.",
         "aedstate1": "Analizowanie pulsu",
         "aedstate2": "Wstrząs zalecany.\nNaciśnij przycisk, aby wykonać wstrząs.",
@@ -2376,7 +2376,7 @@
         "tutmove9": "Jakżeś się tam dostał..? Dziwne. W każdym razie, podnieś proszę następną beczkę.",
         "tutmove10": "Przytrzymaj rzut, a następnie skocz i rzuć beczką w dół. Wespnij się na ścianę poprzez podsadzenie się rzutem.",
         "tutmove11": "Dobra robota. Im cięższy rzucony obiekt tym dalej cię odrzuci. Podnieś następną beczkę.",
-        "tutmove12": "Zeskocz w ten otwór, a następnie spowolnij swój upadek poprzez rzucenie beczką w dół tuż przed uderzeniem w ziemię. Nie dotykaj ścian.",
+        "tutmove12": "Zeskocz w ten otwór, a następnie zniweluj swój pęd poprzez rzucenie beczką w dół tuż przed uderzeniem w ziemię. Nie dotykaj ścian.",
         "tutmove13": "Nieźle.",
         "tutmove14": "Zamachiwanie się i uderzanie odpycha cię w podobny sposób. Spróbuj dostać się na ścianę po twojej prawej stronie wykonując ataki skierowane głównie w dół.",
         "tutmove15": "Podnieś ten młot i powtórz podsadzenie się przez uderzenie, używając go. Odrzut młota zapewni ci zdecydowanie więcej wysokości.",
@@ -4183,9 +4183,9 @@
                 "...A-ach... No... Dobra... D-dowidzenia, zatem..."
             ],
             "wwmr": [
-                "Okay... I'm here... I'm finally down here. Let's do this. The objective should be somewhere around here.",
-                "The... Objective... Should be somewhere in here... No more messing around. Let's go.",
-                "I made it... I made it..? Hmmh... It should be somewhere around here... Let's get this over with."
+                "Okej... Wreszcie tutaj... Wreszcie tu jestem. Do dzieła. Cel powinien gdzieś tu być.",
+                "Cel... Powinien gdzieś tu być... Koniec z wygłupami. Do dzieła.",
+                "Dotarłem... Dotarłem..? Hmmh... Powinien gdzieś tu być... Miejmy już to z głowy."
             ],
             "cargo1": [
                 "I... I think this... Is... it..?"
