@@ -1,15 +1,20 @@
 Community localization of the game "*Casualties: Unknown*" by [Orsoniks](https://github.com/Orsoniks).
 
-## Installing
+## Installing new locales
 
-To install a locale:
-1. Go to the folder with the game version for which you want to download translations.
-1. Find and download the JSON file for your locale from the version's folder.
-2. Go to *Casualties: Unknown*'s install path.
+1. Go to the [release](/release) folder in GitHub (or the [demo](/demo) folder if you want to download locales for the demo).
+   * You can also look at the list of available [release](#release-locales) and [demo](#demo-locales) locales below.
+2. Find and download the JSON file for your locale from the version's folder.
+   <img src="docs/Install_GitDownload.png" height="300" />
+3. Go to *Casualties: Unknown*'s install path.
    - For Steam: Library -> Right click on *Casualties: Unknown* -> Manage -> Browse local files
-3. Place the JSON file under the `CasualtiesUnknown_Data/Lang` folder, next to `EN.json`.
-
-If done correctly, your new locale should appear as an option on the main menu, in the top right corner.
+     <img src="docs/Install_SteamLibrary.png" height="300" />
+4. Place the JSON file under the `CasualtiesUnknown_Data/Lang` folder, next to `EN.json`.
+   <img src="docs/Install_LangFolder.png" height="200" />
+5. Launch the game, and click on the **Drop capsule** on the left side of the screen to open the settings menu.
+6. Select your added locale from the list in the "Language" tab.
+   
+   <img src="docs/Install_LangSelect.png" height="300" />
 
 ## Demo locales
 
@@ -56,6 +61,7 @@ This is a list of all of the locales available for the [release version](https:/
 | [Español (Latinoamérica)](/release/es-419.json) | v1.0-Pre3 (+bccaab7) | [Derkala](https://github.com/Derkala), [ItsVoidSK](https://github.com/ItsVoidSK), [Zilat](https://github.com/Zilat0), [JuanMC45](https://github.com/JuanMC45), [LeonixMG](https://github.com/LeonixMG), [Zorpolar](https://github.com/Zorpolar), [IzaCarlos](https://github.com/IzaCarlos) |
 | [Русский (Россия)](/release/ru-RU.json) | v1.0-Pre3 (+bccaab7) | [UCRD](https://github.com/wucrd), [Vinterhelm](https://github.com/vinterhelm), [SoberFurry](https://github.com/SoberFurry), [Captain_Kirk](https://github.com/Danich27rus), [batya_v_khati](https://github.com/batyaVkhati), [Voprositelnii](https://github.com/voprosit), [Strag Az](https://github.com/StragAz), untitled9223, [Bogtogus](https://github.com/bogtogus), [SPeCtator](https://github.com/SP3Ctator) |
 | [Українська (Україна)](/release/uk-UA.json) | v1.0-Pre3 (+bccaab7) | [Vladorion737](https://github.com/vladorion737), [batya_v_khati](https://github.com/batyaVkhati), [Rulfam](https://github.com/Rulfam) |
+| [Tiếng Việt (Vietnam)](/release/vi-VN.json)| v1.0-Pre3 (+bccaab7) | [Axioid](https://github.com/axioid), [SuffyrnTardelune](https://github.com/SuffyrnTardelune), [Daenry](https://github.com/daenry), Weird Cat, Just Cyrus, Vee |
 
 ## Contributing
 
