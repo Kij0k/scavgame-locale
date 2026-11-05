@@ -1,14 +1,14 @@
 {
     "name": "Polski",
     "description": "Nieoficjalne tłumaczenie polskie przeznaczone dla wersji 7.0.",
-    "version": "1.0-Pre3",
+    "version": "1.0-Pre13",
     "main": {
         "bandage": "Opatrunek",
         "bandagedsc": "Zwitek opatrunku z bandażem, służy do spowalniania krwawienia, stabilizacji złamań oraz wspomagania gojenia się skóry. Nie wpływa na zdrowie mięśni.",
         "rippeddressing": "Oddarty opatrunek",
         "rippeddressingdsc": "Kupka podartych ubrań. Może zostać użyty jako prowizoryczny bandaż do tamowania krwawienia.",
         "rag": "Stara szmata",
-        "ragdsc": "Zużyta, zmięta szmata. Może zostać użyta jako przyzwoity, prowizoryczny bandaż. Użyta w ekwipunku pozwoli się osuszyć",
+        "ragdsc": "Zużyta, zmięta szmata. Może zostać użyta jako przyzwoity, prowizoryczny bandaż. Użyta w ekwipunku pozwoli się osuszyć.",
         "analgesicgauze": "Gaza medyczna",
         "analgesicgauzedsc": "Tkana gaza bawełniana, zawierająca leki przeciwbólowe. Skuteczna w spowalnianiu krwawienia i łagodzeniu bólu po urazach.",
         "alginate": "Opatrunek alginianowy",
@@ -55,8 +55,8 @@
         "aeddsc": "Urządzenie elektryczne diagnozujące arytmie zagrażające życiu i leczy je poprzez wyładowania elektryczne. Używaj na klatce piersiowej. Porównując z defibrylatorem ręcznym, nie wymaga szkolenia, ale zajmuje więcej czasu i energii elektrycznej.",
         "manualdefibrillator": "Defibrylator ręczny",
         "manualdefibrillatordsc": "Urządzenie elektryczne używane do stabilizacji niebezpiecznych rytmów serca. Używaj na klatce piersiowej. Ten jest ręczny, wymaga więc trochę wiedzy, aby używać poprawnie. Porównując z AED, jest szybszy i używa mniej energii, ale jego działanie nie jest pewne. Większe INT ułatwia użytkowanie.",
-        "minifleshrebuilder": "Mini flesh rebuilder",
-        "minifleshrebuilderdsc": "An experimental medical device that uses samples of flesh in order to heal traumatic injuries. If filled with three pieces of yellow flesh, can rebuild missing facial features. Also a mediocre light source!",
+        "minifleshrebuilder": "Miniaturowy regenerator tkanek",
+        "minifleshrebuilderdsc": "Eksperymentalne urządzenie medyczne, wykorzystujące próbki ciała aby wyleczyć urazy traumatyczne. Gdy wypełniony trzema kawałkami żółtego mięsa, może odbudować utracone elementy twarzy. Jest także dość słabym źródłem światła!",
         "antidepressants": "Butelka Antydepresantów",
         "antidepressantsdsc": "Butelka od antydepresantów w tabletkach 140ml. Dawka 20ml.",
         "antibiotics": "Butelka antybiotyków",
@@ -217,8 +217,8 @@
         "exposedcoredsc": "Nieaktywne szczątki czegoś, co było wcześniej ożywione. Prawdopodobnie dałoby się go zjeść, aby zaabsorbować jego energię w formie składników odżywczych i wody. <i>Wygląda, jakby w coś się powoli przemieniał...</i>",
         "foliage": "Listowie",
         "foliagedsc": "Pospolita obca flora. Ledwo jadalne, smakuje niezadowalająco. Może wywołać nudności. Szybko się psuje. Często wykorzystywane w tworzeniu przedmiotów.",
-        "redfoliage": "Red foliage",
-        "redfoliagedsc": "You have more important things to think about. That said, it does look quite pretty!",
+        "redfoliage": "Czerwone listowie",
+        "redfoliagedsc": "Masz ważniejsze rzeczy na głowie, ale tak, wygląda dość ładnie!",
         "foliagemeal": "Posiłek z listowia",
         "foliagemealdsc": "W porządku przygotowane jedzenie, z chrupiącego listowia i prostego nadzienia. Nie wytrzyma długo i nie ma tłuszczu, ale jest bardzo sycący.",
         "dryfoliage": "Suche listowie",
@@ -262,7 +262,7 @@
         "titaniummachete": "Tytanowa maczeta",
         "titaniummachetedsc": "Bardzo efektywne i wytrzymałe narzędzie do walki, lekkie i łatwe w zamachu, ale też ostre jak brzytwa i druzgoczące. Jej ostrze zostało zahartowane, aby utrzymać ostrość przez bardzo długi czas. Niesamowite narzędzie do samoobrony, może też być użyte jako narzędzie do kopania w razie ostateczności.\n\n<color=\"red\">Może zostać użyta w panelu zdrowia, aby amputować kończynę dotkniętą poważną infekcją.",
         "sledgehammer": "Młot",
-        "sledgehammerdsc": "Narzędzie z dużą, płaską głownią przymocowaną do długiego trzonu. Słyszałeś że są wrzucane do rzek.",
+        "sledgehammerdsc": "Narzędzie z dużą, płaską głownią przymocowaną do długiego trzonu. Słyszałeś że są zazwyczaj wrzucane do rzek.",
         "woodpickaxe": "Drewniany kilof",
         "woodpickaxedsc": "Kilof wykonany ze szczególnie rozczarowującego materiału. Skuteczny w usuwaniu terenu, ale wolny i kruchy.",
         "wooddiggingtool": "Drewniane narzędzie do kopania",
@@ -329,6 +329,20 @@
         "dustmaskdsc": "Całkiem wytrzymała maska, zakrywająca twoje usta. Zapewnia niewielką ochronę głowy.",
         "scarf": "Szal",
         "scarfdsc": "Ciepły, czerwony i puchaty, zapewni trochę izolacji od zimna. Sprawia że czujesz się jak najemnik...",
+        "mercscarf": "M.E.R.C. scarf",
+        "mercscarfdsc": "Provides immense power to the user via its implanted chips. It needs some kind of special power source, and a long while to charge... You need to make it out of this cave, with it, alive.",
+        "regenerationchip": "REL-Hyper-Regeneration Booster chip",
+        "regenerationchipdsc": "An advanced body chip that highly boosts the users injury regeneration abilities, in exchange for increased metabolism. You won't be able to make use of it until much later.",
+        "capacitorchip": "Micro-SINGLEBTR 1CHRG capacitor",
+        "capacitorchipdsc": "An advanced nano-battery that can store and discharge a monstrous amount of energy in a short timespan. You won't be able to make use of it until much later.",
+        "swapchip": "0.2.9-Mind-Swap chip",
+        "swapchipdsc": "A mysterious body chip that links with its host, allowing them to quickly move their consciousness onto the chip and then onto a new vessel shortly post-mortem. You won't be able to make use of it until much later.",
+        "rejuvenationchip": "0.0.7-Emergency Rejuvenation chip",
+        "rejuvenationchipdsc": "A crude enhancement to the mind-swap chip that allows the host to reform into a crude newly formed vessel using base DNA stored on the device and the biomass of whatever is left of the now dead host. You won't be able to make use of it until much later.",
+        "aichip": "MINI-AI chip",
+        "aichipdsc": "A relatively simple body chip that allows a simple AI system to communicate with the host and help them with certain tasks. You won't be able to make use of it until much later.",
+        "kineticchip": "Kinetic Transmitter chip",
+        "kineticchipdsc": "An experimental chip that creates a miniature spacetime distortion localized around two points, telekinetically pushing the host and the object in any chosen direction. You won't be able to make use of it until much later.",
         "blueprint": "Schemat",
         "blueprintdsc": "Ma na sobie instrukcję do stworzenia jakiegoś przedmiotu. Przytwierdzony do niego jest jakiś czip... Użyj, aby nauczyć się przepisu i zyskać doświadczenie INT.",
         "safetyglasses": "Okulary ochronne",
@@ -393,8 +407,8 @@
         "carcasssplintdsc": "Twarda, długa rura wykonana z wielu połączonych ze sobą trucheł. Służy jako całkiem dobra, prowizoryczna szyna do leczenia złamań.",
         "terrainscanner": "Skaner terenu",
         "terrainscannerdsc": "Pokazuje niskiej jakości mapę terenu pod tobą. Teren podświetlony na zielono, a budynki na czerwono. Może być trochę niedokładna. Sięga 24 metry wgłąb.",
-        "nanotechscanner": "Nano-tech scanner",
-        "nanotechscannerdsc": "A device that detects the specific tech-signatures of various body chips, showing their general location. Only works when in the main inventory. There's some info about the chips written on the side, use to read it.",
+        "nanotechscanner": "Skaner nanotechnologii",
+        "nanotechscannerdsc": "Urządzenie wykrywające konkretne sygnatury technologiczne różnych czipów wszczepianych, pokazując ich przybliżoną lokalizację. Działa tylko w głównym ekwipunku. Na jego boku jest trochę informacji o tych czipach, użyj aby je przeczytać.",
         "geigercounter": "Licznik Geigera",
         "geigercounterdsc": "Instrument elektroniczny wykrywający i mierzący radiację jonizującą za pomocą komory Geigera-Müllera. Użyj aby przełączyć.",
         "handcrank": "Ładowarka na korbkę",
@@ -587,12 +601,12 @@
         "woodsandalsdsc": "Drewniana płytka przymocowana do twoich łap liną. Nie są wygodne, ale ochronią cię przed ostrymi odłamkami... Jeśli masz szczęście to może więcej niż raz!",
         "minibarrel": "Mini-beczka",
         "minibarreldsc": "Mała beczka przemysłowa służąca do przechowywania cieczy. Niesamowicie ciężka i niepraktyczna w użyciu.",
-        "peglimb": "Peg limb",
-        "peglimbdsc": "A makeshift wooden prosthesis to replace lost extremities. Less efficient than a normal limb and prone to breaking. Repaired with wood scraps. Use on the thorax/abdomen to attach. 7 INT is needed to attach reliably.",
-        "steelprosthesis": "Steel prosthesis",
-        "steelprosthesisdsc": "A metal prosthesis to replace lost extremities. Equal to a normal limb in most ways. Repaired with steel scraps. Use on the thorax/abdomen to attach. 10 INT is needed to attach reliably.",
-        "peo": "P.E.O. limb",
-        "peodsc": "Prosthetic Enhanced Operation limb. Better than a normal limb in almost every way. Repaired with titanium sheets. Use on the thorax/abdomen to attach. 14 INT is needed to attach reliably."
+        "peglimb": "Drewniana proteza",
+        "peglimbdsc": "Prowizoryczna drewniana proteza do wymienienia utraconej kończyny. Mniej efektywna od zwykłej kończyny i podatna na zniszczenia. Naprawiana kawałkami drewna. Użyj na klatce piersiowej/brzuchu aby przymocować. 7 INT wymagane aby z pewnością przymocować.",
+        "steelprosthesis": "Stalowa proteza",
+        "steelprosthesisdsc": "Metalowa proteza do wymienienia utraconej kończyny. W większości równa normalnej kończynie. Naprawiana stalowym złomem. Użyj na klatce piersiowej/brzuchu aby przymocować. 10 INT wymagane aby z pewnością przymocować.",
+        "peo": "Kończyna P.Z.S",
+        "peodsc": "Proteza kończyny o Zwiększonej Sprawności. W prawie każdym względzie lepsza od normalnej kończyny. Naprawiana płytami tytanowymi. Użyj na klatce piersiowej/brzuchu aby przymocować. 14 INT wymagane aby z pewnością przymocować."
     },
     "buildings": {
         "animalcorpse": "Ciało zwierzęcia",
@@ -610,16 +624,21 @@
         "mushroomtree": "Drzewo grzybowe",
         "mushroomtreedsc": "Świeci w ciemności.",
         "drillpod": "Kapsuła wiertnicza",
-        "drillpoddsc": "Używana do transportu ludzi przez grunt na długie dystanse. Aktualnie nie nadaje się do użytku, ale można ją naprawić. Może cię przetransportować o 2 warstwy w dół.",
-        "drillpoddscfixed": "Używana do transportu ludzi przez grunt na długie dystanse.\n\n Kucnij w nim by przenieść się o 2 warstwy w dół. Może spowodować utratę słuchu podczas transportu, jako że warstwa wygłuszeniowa jest zużyta.",
+        "drillpoddsc": "Używana do transportu ludzi przez grunt na długie dystanse. Aktualnie nie nadaje się do użytku, ale można ją naprawić zestawem do tego stworzonym. Może cię przetransportować o 2 warstwy w dół.",
+        "highpowereddrillpod": "High-powered drill pod",
+        "highpowereddrillpoddsc": "State of the art pod for transporting people long distances through solid ground. You'll need to get some kind of strong power source to get it to work...",
+        "highpowereddrillpoddsc2": "State of the art pod for transporting people long distances through solid ground. It's time to wave goodbye to this place.",
+        "drillpoddscfixed": "Używana do transportu ludzi przez grunt na długie dystanse.\n\n Kucnij w nim by przenieść się o 2 warstwy w dół. Może spowodować częściową utratę słuchu podczas transportu, jako że warstwa wygłuszeniowa jest zużyta.",
+        "highpowereddrillpodbroken": "Broken pod",
+        "highpowereddrillpodbrokendsc": "You really pushed that thing way beyond safe operation range. Looks like you accidentally ran through something on the way too.",
         "drillpodbroken": "Zniszczona kapsuła wiertnicza",
         "drillpodbrokendsc": "Nadaje się tylko na złom.",
         "frigiant": "Mroźnik",
         "frigiantdsc": "Zimna i szklista roślina. Z jego czubka wisi sferyczny owoc.",
         "snowstrider": "Nartnik",
-        "snowstriderdsc": "Duże, futrzaste stworzenie, które żyje w zimnych częściach jaskini. Jego grube futro zapewnia mu ciepło.",
+        "snowstriderdsc": "Duże, futrzaste stworzenie, które żyje i poluje w zimnych częściach jaskini. Jego grube futro zapewnia mu ciepło.",
         "spaceheater": "Jonowy grzejnik",
-        "spaceheaterdsc": "Urządzenie do ogrzewania okolicy, o dużej mocy. Może spowodować chorobę popromienną przy przebywaniu w pobliżu niego przez dłuższy czas.",
+        "spaceheaterdsc": "Urządzenie do ogrzewania okolicy, o dużej mocy. Może spowodować lekką chorobę popromienną przy przebywaniu w pobliżu niego przez dłuższy czas.",
         "heatfern": "Ciepłoziele",
         "heatferndsc": "Gąbczasta i krzewista paproć, która podgrzewa okolice by rozsiewać swoje zarodniki wokół. Zapewnia nieco ciepła, lecz dłuższy kontakt z zarodnikami może zaburzyć twój układ odpornościowy.",
         "lifepodheater": "Kaloryfer kapsuły",
@@ -696,7 +715,7 @@
         "geotreedsc": "Jest jak gąbka! Ma liścio-podobne rzeczy w kształcie figur geometrycznych.",
         "glowplant": "Świetlina",
         "glowplantdsc": "Zielona roślina o właściwościach bioluminescencyjnych. Wygląda na to, że tutejsze środowisko nie zaszkodziło tej roślinie.",
-        "mushlight": "Mushlight <TMP>",
+        "mushlight": "Mushlight",
         "mushlightdsc": "Some kind of bioluminescent plant.",
         "jumppad": "Stara maszyna",
         "jumppaddsc": "Wystaje z niej płytka naciskowa.",
@@ -710,8 +729,8 @@
         "LifePodLightdsc": "Ma w sobie żarówkę - możesz zabrać ją ze sobą.",
         "medcrate": "Skrzynia medyczna",
         "medcratedsc": "Ma w sobie przedmioty medyczne.",
-        "techball": "Tech-Ball",
-        "techballdsc": "It looks like it's malfunctioning..? You could open it.",
+        "techball": "Tech-Kula",
+        "techballdsc": "Wygląda jakby nie działała poprawnie..? Możnaby ją otworzyć.",
         "rechargingstation": "Stacja ładująca",
         "rechargingstationdsc": "Stacja do ładowania baterii.Akceptuje baterie każdej wielkości i wydaję się, że jest zasilana niewyczerpywalnym źródłem energii. Użyj aby włożyć baterię z głownej dłoni, a później przeciągnij na siebie aby wziąc z powrotem. \n\nJest do niej przyczepiony odtwarzacz MP3 aby uspokajać cię gdy czekasz... O dziwo, nie ma w sobie baterii.",
         "hydreed": "Wodtrzcina",
@@ -753,6 +772,8 @@
         "crystalmetamorphic": "metamorphic",
         "crystalhealing": "healing",
         "crystalshy": "mimic",
+        "crystalproperty": "Has property: ",
+        "crystalproperties": "Has properties: ",
         "sandrose": "Piaskowa róża",
         "sandrosedsc": "Piękna roślina, na której szczycie rośnie parę dużych i długich bulw.",
         "scrapeater": "Złomek",
@@ -768,16 +789,16 @@
         "spikestabberdscused": "Już ci od tego nic nie grozi.",
         "stoneplant": "Roślina kamienna",
         "stoneplantdsc": "Jest to bryłka twardego, kamiennopodobnego materiału z wystającymi miękkimi, zielonymi owocami.",
-        "fan": "Old machinery",
-        "fandsc": "The blades look sharp, but flimsy.",
-        "fandsc2": "Not so scary now.",
+        "fan": "Stara maszyneria",
+        "fandsc": "Łopatki wyglądają na ostre, ale też i na liche.",
+        "fandsc2": "Już takie nie groźne.",
         "TurbulentCrystal": "Burzliwy kryształ",
         "TurbulentCrystaldsc": "Lekko drga.",
         "turret": "Działo strażnicze",
         "turretdsc": "Wygląda na to że ma czujnik termiczny.",
         "ceilingturret": "Sufitowe działo strażnicze",
         "ceilingturretdsc": "Wygląda na to że ma jakiś czujnik, albo ruchu albo termiczny... Może dasz radę jakoś przemknąć się pod nim?",
-        "grate": "Krata <TMP>",
+        "grate": "Krata",
         "gratedsc": "",
         "stalagmite": "Stalagmit",
         "stalagmitedsc": "Na szczęście spikulec jest stępiony.",
@@ -796,7 +817,7 @@
         "crimsonbushdsc": "Jesteś tak blisko potencjalnej wolności, a jednak spędzasz czas podziwiając krzaki.",
         "crimsontree": "Szkarłatne drzewo",
         "crimsontreedsc": "Drzewo. Ale czerwone. Nie masz lepszych rzeczy do zwrócenia uwagi?",
-        "pussack": "Wór ropy <TMP>",
+        "pussack": "Wór ropy",
         "pussackdsc": "Wygląda na żywy. Ochydne. Ale może użyteczne?",
         "brownshroom": "Brązowy grzyb",
         "brownshroomdsc": "Nie wiesz o nim nic, poza tym, że jest brązowy.",
@@ -841,17 +862,21 @@
         "grabberplantdsc": "Bada teren wokół siebie swoją końcówką.",
         "grabbershroom": "Chwyto-grzyb",
         "grabbershroomdsc": "Nie potrafisz pojąć, jak grzyb jest do czegoś takiego zdolny.",
+        "scientist": "Employee",
+        "scientistdsc": "One of the white coats.",
+        "guard": "Employee",
+        "guarddsc": "One of the blue coats.",
         "terminal": "Komputer",
         "terminaldsc": "Stary komputer z ekranem.",
-        "macrofleshrebuilder": "Macro flesh rebuilder",
-        "macrofleshrebuilderdsc": "Some kind of sophisticated surgical device. You can probably figure out how to use it."
+        "macrofleshrebuilder": "Makro rekonstruktor tkanek",
+        "macrofleshrebuilderdsc": "Jakiegoś rodzaju skomplikowane narzędzie chirurgiczne. Chyba jakoś uda ci się domyślić jak go użyć."
     },
     "moodles": {
         "braindamage4": "Śpiączka",
         "braindamage3": "Poważna degradacja neurofizjologiczna",
         "braindamage2": "Obrażenia neurologiczne",
         "braindamage1": "Zaburzenie umysłowe",
-        "stroke": "Udar",
+        "stroke": "Udar krwotoczny",
         "cantbreathe": "Zatrzymanie oddechu",
         "thoraxdestroyed": "Niewydolność oddechowa",
         "pulmonaryembolism": "Zator płucny",
@@ -898,9 +923,9 @@
         "bleeding3": "Poważne krwawienie",
         "bleeding4": "Katastroficzne krwawienie",
         "internalBleed": "Krwawienie wewnętrzne",
-        "exertion1": "Lekkie wysilenie",
-        "exertion2": "Wysilenie",
-        "exertion3": "Wysokie wysilenie",
+        "exertion1": "Lekkie wysilenie fizyczne",
+        "exertion2": "Wysilenie fizyczne",
+        "exertion3": "Wysokie wysilenie fizyczne",
         "exertion4": "Kompletne wyczerpanie",
         "brokenbone": "Złamana kość",
         "dislocation": "Zwichnięty staw",
@@ -973,7 +998,7 @@
         "trauma4": "W szoku",
         "happy1": "Zadowolenie",
         "happy2": "Ekscytacja",
-        "happy3": "Szczęście",
+        "happy3": "Szczęśliwość",
         "happy4": "Radość",
         "impairedspeech": "Zaburzenie mowy",
         "deaf2": "Zaburzenie słuchu",
@@ -1014,10 +1039,11 @@
         "impendingdoom": "Poczucie nadchodzącej katastrofy",
         "horrified": "PRZERAŻANIE",
         "focused": "SKUPIENIE",
-        "prosthesis": "Prosthetic limb",
-        "loosescrews": "Loose screws",
-        "bentprosthesis": "Bent prosthesis",
-        "materialloss": "Critical material loss",
+        "cargo": "Cargo embedded",
+        "prosthesis": "Prostetyczna kończyna",
+        "loosescrews": "Poluzowane śruby",
+        "bentprosthesis": "Wygięta proteza",
+        "materialloss": "Krytyczny ubytek materiału",
 
         "braindamage4dsc": "...",
         "braindamage3dsc": "rzeczywistość  ..  przestaje mieć sens",
@@ -1028,11 +1054,11 @@
         "thoraxdestroyeddsc": "Twoje płuca są zbyt uszkodzone aby pracować, spowodowana krytycznie niskim zdrowiem mięśni torsu.",
         "pulmonaryembolismdsc": "Duża skrzeplina odczepiła się i ulokowała w płucach, torując tętnicę. Skutkując błyskawicznym obrażeniom płuc i duszeniem się. Natychmiast zmniejsz swoją lepkość krwi.",
         "oxygen1dsc": "SpO2 poniżej 90%. Stanowi oznakę innych schorzeń.",
-        "oxygen2dsc": "SpO2 poniżej 75%, mózg powoli traci tlen. Stanowi oznakę inne schorzeń.",
-        "oxygen3dsc": "SpO2 poniżej 60%, pozbawiając większość tkanek tlenu i skutkując arytmią. Możliwie śmiertelne",
+        "oxygen2dsc": "SpO2 poniżej 75%, mózg powoli traci tlen. Stanowi oznakę innych schorzeń.",
+        "oxygen3dsc": "SpO2 poniżej 60%, pozbawiając większość tkanek tlenu i skutkując arytmią. Możliwie śmiertelne.",
         "oxygen4dsc": "SpO2 poniżej 45%. Coś w twoim ciele poszło naprawdę, naprawdę źle.",
-        "fibrillation1dsc": "Nieregularny rytm serca, wywołane wysokim obciążeniem ciała. Może się pogłębić, jeśli jej powód nie zostanie rozwiązany. Może być defibrynowana.",
-        "fibrillation2dsc": "Bardzo nieregularny rytm serca, uniemożliwia efektywnemu pompowaniu krwi. Przejdzie w śmiertelne migotanie komór jeśli nie wyleczone. Może być defibrynowana.",
+        "fibrillation1dsc": "Nieregularny rytm serca, wywołane wysokim obciążeniem ciała. Może się pogłębić, jeśli jej powód nie zostanie rozwiązany. Może być defibrylowana.",
+        "fibrillation2dsc": "Bardzo nieregularny rytm serca, uniemożliwia efektywnemu pompowaniu krwi. Przejdzie w śmiertelne migotanie komór jeśli nie wyleczone. Może być defibrylowana.",
         "fibrillation3dsc": "Zagrażający życiu, chaotyczny rytm serca. Coś poszło naprawdę źle.",
         "palpitationsdsc": "Czujesz jak twoje serce próbuje się wybić z twojej piersi. To tylko lęk, czy coś poszło naprawdę źle?",
         "cardiacarrestdsc": "Asystolia. Ma małą szansę wyleczenia poprzez defibrylację lub epinefrynę. Następują niedotlenienie mózgu i śmierć.",
@@ -1040,11 +1066,11 @@
         "hypoventilation2dsc": "Bardzo zmniejszone tempo oddechu, powoli zmniejszające nasycenie krwi tlenem.",
         "hypotension1dsc": "Lekko zmniejszone ciśnienie krwi.",
         "hypotension2dsc": "Umiarkowanie zmniejszone ciśnienie krwi. Bledniesz  i poci ci się skóra. Sprawdź swoje znaki życiowe.",
-        "hypotension3dsc": "Bardzo zmniejszone ciśnienie krwi, jestś na skraju nieprzytomności. Może wywołać migotanie, sprawdź swoje znaki życiowe.",
+        "hypotension3dsc": "Bardzo zmniejszone ciśnienie krwi, jesteś na skraju nieprzytomności. Może wywołać migotanie, sprawdź swoje znaki życiowe.",
         "hypotension4dsc": "Śmiertelnie niskie ciśnienie krwi. Krew nie dociera do twoich narządów. Niedotlenienie mózgu i śmierć bliskie.",
         "hypertension1dsc": "Lekko zwiększone ciśnienie krwi.",
         "hypertension2dsc": "Umiarkowanie zwiększone ciśnienie krwi. Boli cię głowa i kręci ci się w głowie. Sprawdź swoje znaki życiowe.",
-        "hypertension3dsc": "Niebezpiecznie zwiększone ciśnienie krwi, za niedługo powodując poważnymi komplikacjami zdrowotnymi. Czujesz się okropnie. Sprawdź swoje znaki życiowe.",
+        "hypertension3dsc": "Niebezpiecznie zwiększone ciśnienie krwi, wkrótce powodując poważne komplikacje zdrowotne. Czujesz się okropnie. Sprawdź swoje znaki życiowe.",
         "hypertension4dsc": "Ciśnienie krwi zagrażające życiu. Ryzyko udaru. Bezzwłocznie sprawdź swoje znaki życiowe i prowadź obserwacje pod kątem oznak udaru.",
         "venom1dsc": "Obecność niewielkich ilości hemotoksyny w krwiobiegu. Czy coś cię ugryzło?",
         "venom2dsc": "Hemotoksyna obecna w krwiobiegu, osłabiając krzepnięcie krwi i niszcząc krwinki. Sprawdź swoje znaki życiowe.",
@@ -1056,12 +1082,12 @@
         "pain4dsc": "Rozdzierający ból. Utrudniony ruch. Śmierć nie brzmi teraz jak najgorzej. Radość zmniejsza się szybko.",
         "shockdsc": "Zapadasz w wstrząs z bólu.",
         "overdose1dsc": "Odprężenie i spokój. Twoje ciało jest zdrętwiałe.",
-        "overdose2dsc": "Wysokie odprężenie i spokój, jednak twoje płuca wydają się ciężkie. Czujesz się większe zmęczenie niż zwykle. Dobrze się czujesz...",
+        "overdose2dsc": "Wysokie odprężenie i spokój, jednak twoje płuca wydają się ciężkie. Czujesz większe zmęczenie niż zwykle. Dobrze się czujesz...",
         "overdose3dsc": "Oddychanie przychodzi ci z wysiłkiem, ale twój umysł wypełniony jest euforią. To na pewno nie jest zdrowe. Gdyby tylko ten moment mógł trwać wiecznie...",
         "overdose4dsc": "Niewydolność oddechowa. Doświadczasz narkotycznej euforii.",
         "withdrawal1dsc": "Naprawdę chcesz kolejną działkę.",
         "withdrawal2dsc": "Twoje ciało rząda kolejnej działki. Chce ci się wymiotować... Tragicznie się czujesz.",
-        "withdrawal3dsc": "Trudno ci się utrzymać kupy, drżąc, pragnąc jakiejkolwiek ulgi. Naprawdę tragicznie się czujesz. Znajdź opiaty.",
+        "withdrawal3dsc": "Trudno ci się utrzymać kupy, drżąc, pragnąc jakiejkolwiek ulgi. Naprawdę tragicznie się czujesz. Znajdź opioidy.",
         "withdrawal4dsc": "Twoje ciało nie jest w stanie funkcjonować bez opioidów, na których stało się zależne. Twoje serce nie daje rady pompować krwi po ciele; Uważaj na migotanie.",
         "stimulateddsc": "Mocny stymulant w twoim krwiobiegu. Jesteś gotów na wszystko co może cię spotkać.",
         "drugoverdosedsc": "Toksyczna dawka leków nie-opioidowych wzięta. Wysokie prawdopodobieństwo komplikacji zdrowotnych.",
@@ -1069,15 +1095,15 @@
         "bleeding2dsc": "Krew wypływa z całkiem dużej rany. Mało prawdopodobne aby było śmiertelne jeśli jesteś w dobrym zdrowiu, ale nadal niebezpieczne.",
         "bleeding3dsc": "Duża ilość krwi cieknie z twojego ciała. Prawdopodobnie śmiertelne przy braku pomocy.",
         "bleeding4dsc": "<i>Jak życie przecieka ci przez palce, przypominasz sobie że kiedyś umrzesz.",
-        "internalBleeddsc": "Krew gromadzi się w miejscach w których nie powinno jej być. Znajdź prokoagulant lub U.R.M",
+        "internalBleeddsc": "Krew gromadzi się w miejscach w których nie powinno jej być. Znajdź prokoagulant lub U.R.M.",
         "exertion1dsc": "Umiarkowane wysilenie fizyczne. (<>%)",
         "exertion2dsc": "Nieprzyjemne wysilenie, problemy z ruchem i pracą. (<>%)",
         "exertion3dsc": "Ledwo się ruszasz, Wysokie wysilenie. (<>%)",
         "exertion4dsc": "Ledwo oddychasz. (<>%)",
         "brokenbonedsc": "Coś w tobie pękło. Próbuj nie używać dotkniętej złamaniem kończyny i odpoczywaj na ile możesz. Zabandażuj lub unieruchom.",
-        "dislocationdsc": "Coś w tobie jest nie tam gdzie powinno być. Próbuj nie używać dotkniętej zwichnięciem kończyny. Może być naprawione ręcznie",
+        "dislocationdsc": "Coś w tobie jest nie tam gdzie powinno być. Próbuj nie używać dotkniętej zwichnięciem kończyny. Może być naprawione ręcznie.",
         "brokenneckdsc": "Twoja szyja jest złamana. Twój rdzeń kręgowy nie jest przerwany, ale jakikolwiek ruch jest niezwykle bolesny. Słabość od szyi w dół. Jedzenie sprawia ból.",
-        "brokenribsdsc": "Twoje żebra są złamane, oddychanie bolesne i o wiele trudniejsze. Oby żadne nie przebiło twoich płuc. Zmniejszona siła rąk.",
+        "brokenribsdsc": "Twoje żebra są złamane, oddychanie o wiele trudniejsze. Zmniejszona siła rąk.",
         "dislocatedjawdsc": "Twoja szczęka jest zwichnięta, zaburzając mowę i sprawiając że jedzenie jest niezwykle bolesne.",
         "dislocatedspinedsc": "Jeden z twoich kręgów jest przemieszony. Twój rdzeń kręgowy nie jest przerwany, ale ruch jest bardzo bolesny. Słabość od pasa w dół.",
         "infected1dsc": "Miejsce infekcji jest napuchnięte i ciepłe w dotyku. Znajdź coś do zabicia drobnoustrojów.",
@@ -1110,7 +1136,7 @@
         "thirst4dsc": "Niebezpiecznie niska objętość krwi zgęstniałej od braku płynów.\n<i>Twój proch wraca do ziemi...",
         "overhydrated1dsc": "Twoje pragnienie jest w pełni zaspokojone - wystarczy ci to na jakiś czas. Wzrost pragnienia zwiększony dwukrotnie. Ciśnienie krwi zwiększone.",
         "overhydrated2dsc": "Konsumpcja wody większa niż tego potrzebujesz. Trochę utrudniony ruch. Wzrost pragnienia zwiększony dwukrotnie. Ciśnienie krwi zwiększone.",
-        "overhydrated3dsc": "Nadmierne spożycie wody . Twoje komórki pęcznieją, zwiększając ciśnienie śródczaszkowe, zakłócają dopływ krwi do mózgu. Boli się głowa... Wzrost pragnienia zwiększony dwukrotnie. Ciśnienie krwi zwiększone.",
+        "overhydrated3dsc": "Nadmierne spożycie wody. Twoje komórki pęcznieją, zwiększając ciśnienie śródczaszkowe, zakłócają dopływ krwi do mózgu. Boli się głowa... Wzrost pragnienia zwiększony dwukrotnie. Ciśnienie krwi zwiększone.",
         "sick1dsc": "Czujesz dyskomfort i lekkie nudności",
         "sick2dsc": "Skołowanie i dyskomfort przy brzuchu. Skłonność do wymiotów.",
         "sick3dsc": "Ospałość, zmęczenie i duży dyskomfort. Duża skłonność do wymiotów.",
@@ -1122,14 +1148,14 @@
         "cold1dsc": "Czujesz się niekomfortowo chłodno.",
         "cold2dsc": "Jest ci nieprzyjemnie zimno. Twój organizm robi się wolny.",
         "cold3dsc": "Niebezpiecznie niska temperatura ciała, umysł i ciało ogarnięte zimnem. Twój organizm przestaje pracować.",
-        "cold4dsc": "Czujesz jakby cię gotowali, ale jesteś obejmuje cię takie zmęczenie i dezorientacja. Długa drzemka brzmi jak dobry pomysł...",
+        "cold4dsc": "Czujesz jakby cię gotowali, ale obejmuje cię takie zmęczenie i dezorientacja. Długa drzemka brzmi jak dobry pomysł...",
         "wet1dsc": "Czujesz minimalną wilgoć na ciele.",
         "wet2dsc": "Twoje futro jest dość mokre. Temperatura i komfort zmniejszone.",
         "wet3dsc": "Ociekasz wodą. Temperatura i komfort znacząco zmniejszone.",
         "wet4dsc": "Kompletne przemoczenie! Woda cię obciąża. Temperatura i komfort bardzo znacząco zmniejszone.",
         "underweight1dsc": "Postaraj się nabrać parę kilo.",
         "underweight2dsc": "Niezdrowo niska waga jak na twój gatunek. Czujesz się trochę słabiej niż zwykle. Zmniejszony udźwig.",
-        "underweight3dsc": "Niebezpieczna chudość i wątłość.  Czujesz się o wiele słabiej niż zwykle, ospałość i szybkie zmęczenie. Zmniejszony udźwig.",
+        "underweight3dsc": "Niebezpieczna chudość i wątłość. Czujesz się o wiele słabiej niż zwykle, ospałość i szybkie zmęczenie. Zmniejszony udźwig.",
         "underweight4dsc": "Nadmierne wychudzenie. Łatwo zobaczyć i poczuć twoje kości przez twoje futro. Wysokie ryzyko niewydolności serca. Mocno zmniejszony udźwig.",
         "overweight1dsc": "Postaraj się zrzucić parę kilo.",
         "overweight2dsc": "Niezdrowo wysoka waga. Niezdarność i podatność na zmęczenie.",
@@ -1141,8 +1167,8 @@
         "depression4dsc": "<i>Jak to jest wiedzieć, że stąd już nie wrócisz..?",
         "trauma1dsc": "Coś złego się stało, naprawdę nie chcesz znowu tego doświadczyć. Radość trochę zmniejszona.",
         "trauma2dsc": "Ostatnie zdarzenia zostawiły cię z traumą i poczuciem niepokoju. Chwiejnie się czujesz. NAPRAWDĘ nie chcesz znowu przez to przejść. Radość zmniejszona.",
-        "trauma3dsc": "Czujesz panikę i przerażenie. Wizje przeżytej zgrozy błyskają ci przed oczyma. Chcesz uciec w JAKIKOLWIEK sposób...  Trochę minie zanim ta rana na umyśle się zaleczy. Radość znacząco zmniejszona.",
-        "trauma4dsc": "Przerażenie. Bezradność. Przygnębienie. Nie wydusisz siebie ani słowa. Radość poważnie zmniejszona.",
+        "trauma3dsc": "Czujesz panikę i przerażenie. Wizje przeżytej zgrozy błyskają ci przed oczyma. Chcesz uciec w JAKIKOLWIEK sposób... Trochę minie zanim ta rana na umyśle się zaleczy. Radość znacząco zmniejszona.",
+        "trauma4dsc": "Przerażenie. Bezradność. Przygnębienie. Nie wydusisz z siebie ani słowa. Radość poważnie zmniejszona.",
         "happy1dsc": "Jest ci dość dobrze tu i teraz.",
         "happy2dsc": "Nie możesz doczekać się tego, co może czekać za rogiem.",
         "happy3dsc": "Poczucie spokoju i szczęścia w tym dziwnym miejscu.",
@@ -1150,7 +1176,7 @@
         "impairedspeechdsc": "Coś utrudnia ci mówienie... Komunikowanie z innymi będzie kłopotliwe.",
         "deaf2dsc": "Nie słyszysz wyższych częstotliwości tak dobrze, jak kiedyś. Pozwól swoim uszom odpocząć.",
         "deaf3dsc": "Wszystko wydaje się mieć pogłos i być wygłuszone. Czujesz irytację. To może chwilę się utrzymać.",
-        "deaf4dsc": "Ledwo cokolwiek słyszysz. Czujesz ostrą irytację. Twoj słuch zajmie dobry kawał czasu aby się poprawić.",
+        "deaf4dsc": "Ledwo cokolwiek słyszysz. Czujesz ostrą irytację. Twój słuch zajmie dobry kawał czasu aby się poprawić.",
         "encumbered1dsc": "Dźwigasz niekomfortowo dużo. <> przeciążenia.",
         "encumbered2dsc": "Dźwigasz za dużo. Kondycja i ruch zmniejszone. Pasywny wzrost STR/RES. <> przeciążenia.",
         "encumbered3dsc": "Dźwigasz o wiele za dużo. Kondycja i ruch znacząco zmniejszone. Pasywny wzrost STR/RES. <> przeciążenia.",
@@ -1173,24 +1199,25 @@
         "adrenalinedsc": "Ból złagodzony. Jesteś w stanie czujności.",
         "tachycardiadsc": "Twoje serce wydaje się bić nadzwyczajnie szybko.",
         "bradycardiadsc": "Twoje serce wydaje się bić nadzwyczajnie wolno.",
-        "rnrsdsc": "Szok nerwowy spowodowany nagłą i gwałtowną regeneracją tkanki mózgowej. Póki twoje ciało się jeszcze dostosowuje, możesz nie chcieć brać kolejnej dawki. (<>)",
+        "rnrsdsc": "Szok neuronowy spowodowany nagłą i gwałtowną regeneracją tkanki mózgowej. Póki twoje ciało się jeszcze dostosowuje, możesz nie chcieć brać kolejnej dawki. (<>)",
         "rippedjawdsc": "Twoja żuchwa została oderwana przez poważny uraz głowy. Jedzenie i mówienie jest znacznie utrudnione. Te doświadczenie pozostawiło po sobie znaczne urazy na twoim umyśle.",
         "rippedeyedsc": "Jedno z twoich oczu zostało wyrwane, zmniejszając twoje pole widzenia o połowę. Te doświadczenie pozostawiło po sobie pewne urazy na twoim umyśle. Nie strać drugiego.",
         "rippedeyesdsc": "Oboje twoich oczu zostało wyrwane. Możesz się odnaleźć tylko po dźwięku i dotyku. Ale przynajmniej nie potrzebujesz już źródła światła...",
         "lowimmunitydsc": "Twój układ odpornościowy jest bardzo osłabiony, z powodu brudu, głodu, pragnienia, albo czego innego. Infekcje są o wiele groźniejsze. Dbaj o siebie lepiej.",
         "highimmunitydsc": "Twój układ odpornościowy pracuje z dużą wydajnością, prawdopodobnie dzięki antybiotykom. Infekcje są o wiele mniej groźne, mogą się nawet cofnąć w postępie same z siebie (gdy blisko 200% odporności).",
         "amputationdsc": "Jedna z twoich kończyn została rozczłonkowana. Najwyższy czas rozpatrzyć protezy.",
-        "clawdamage1dsc": "Twoje pazury są stępione ciągłego użytku, zmniejszając ich obrażenia. Pozwól swoim dłoniom odpocząć, albo używaj narzędzia.",
+        "clawdamage1dsc": "Twoje pazury są stępione od ciągłego użytku, zmniejszając ich obrażenia. Pozwól swoim dłoniom odpocząć, albo używaj narzędzia.",
         "clawdamage2dsc": "Twoje pazury są poważnie uszkodzone od ciągłego użytku, znacząco zmniejszając ich obrażenia. Możesz uszkodzić swoje dłonie jeśli nadal będziesz ich używać bez żadnego narzędzia.",
         "keratinboosterdsc": "Twoje pazury odrastają trzy razy szybciej. (<>)",
         "impendingdoomdsc": "Odczuwasz nagły, przytłaczający strach. Pokrywa cię gęsia skórka. Natura wokół ciebie wydaje się nagle zamilknąć...",
         "horrifieddsc": "BRAK SKUPIENIA. BRAK MYŚLI. NIC WIĘCEJ NIE MA ZNACZENIA. UCIEKAJ ZA SWOJE ŻYCIE ALBO O NIE WALCZ!",
         "focuseddsc": "<i>Oboje dziś umrzemy. Ale jeden trochę później od drugiego.",
-        "focuseddscalt": "<i>It's time to take your freedom.",
-        "prosthesisdsc": "A prosthesis is attached to you. Prosthetic limbs cannot bleed or feel pain, but need to be rebuilt with their repair material if damaged.",
-        "loosescrewsdsc": "One of your prostheses is coming loose, causing material damage while you move. This is caused by shrapnel or critical material loss.",
-        "bentprosthesisdsc": "One of your ptostheses is bent way out of shape, disabling its use and making it unable to be repaired normally. Fix it using any wrench.",
-        "materiallossdsc": "One of your prostheses has a huge crack going down the middle, disabling its use and making it prone to breaking off. Fix it using the repair material."
+        "focuseddscalt": "<i>Nadszedł czas aby uzyskać swą wolność.",
+        "cargodsc": "The look is disturbing and the feeling is monstrously uncomfortable, yet you feel empowered...",
+        "prosthesisdsc": "Jest do ciebie przymocowana proteza. Kończyny prostetyczne nie krwawią ani nie odczuwają bólu, ale muszą być odbudowywane za pomocą ich materiału naprawczego jeśli zostaną uszkodzone.",
+        "loosescrewsdsc": "Któraś z twoich protez się poluzowała, powodując uszkodzenia materiałowe podczas ruchu. Mogło to być spowodowane odłamkami albo krytycznym ubytkiem materiału.",
+        "bentprosthesisdsc": "Któraś z twoich protez mocno się odkształciła, uniemożliwiając jej użytkowanie i sprawiając że nie da się jej normalnie naprawić. Napraw używając jakiegokolwiek klucza.",
+        "materiallossdsc": "Któraś z twoich protez ma duże pęknięcie prowadzące przez jej środek, uniemożliwiając jej użytkowanie i narażając ją na kompletne odłamanie. Napraw za pomocą materiału naprawczego."
     },
     "other": {
         "fullmouthchars": "mnoae",
@@ -1219,6 +1246,14 @@
         "layermodifier8": "Objęte plagą",
         "layermodifier9": "Zjonizowane",
         "layermodifier10": "Rażone słońcem",
+        "layermodifier11": "Turbulent",
+        "layermodifier12": "Shiny",
+        "layermodifier13": "Oxygenated",
+        "layermodifier14": "Sterile",
+        "layermodifier15": "Stable",
+        "layermodifier16": "Beautiful",
+        "layermodifier17": "Unsightly",
+        "layermodifier18": "Rich",
         "layermodifier0dsc": "To miejsce wydaje się bardziej zamglone niż się spodziewano.",
         "layermodifier1dsc": "Jest tu cieplej niż się spodziewano.",
         "layermodifier2dsc": "Jest tu znacznie cieplej niż się spodziewano.",
@@ -1230,6 +1265,14 @@
         "layermodifier8dsc": "Wydaje się, że w tym miejscu jest bardzo dużo owadów.",
         "layermodifier9dsc": "W tym miejscu są składowane materiały radioaktywne.",
         "layermodifier10dsc": "Silny rozbłysk słońca zdeaktywował chwilowo twojego czipa.",
+        "layermodifier11dsc": "Some unknown force is affecting the gravity here.",
+        "layermodifier12dsc": "Strange lights permeate the area.",
+        "layermodifier13dsc": "The air here feels unusually refreshing and energizing.",
+        "layermodifier14dsc": "An airborne microorganism makes infections rarer here.",
+        "layermodifier15dsc": "This area seems to have reduced seismic activity.",
+        "layermodifier16dsc": "Something about this place strikes you as beautiful.",
+        "layermodifier17dsc": "Something about this place makes you uneasy.",
+        "layermodifier18dsc": "The terrain here seems rich in various metals.",
         "genclearingworld": "Czyszczenie pola gry...",
         "geninstantiatingchunks": "Tworzenie nowego terenu...",
         "genpreprocessing": "Poprawianie kolorów...",
@@ -1292,9 +1335,10 @@
         "heatedrock": "Podgrzany kamień",
         "obsidian": "Obsydian",
         "gabbro": "Gabro",
-        "mantle": "Płaszcz <TMP> // pasuje i że planety i że ciuch... teoretycznie?",
+        "mantle": "Płaszcz",
         "crimsongrass": "Szkarłatna trawa",
         "mush": "Papka",
+        "indestructiblealloy": "Indestructible alloy",
         "lrdserum": "Surowica do U.R.M.",
         "lrdserumdsc": "Specjalny związek używany przez Urządzenie Resuscytacji Miejscowej. Nie zadziała, jeżeli wstrzyknięty za pomocą innych urządzeń.",
         "cleanwater": "Czysta woda",
@@ -1355,8 +1399,8 @@
         "ceftriaxonedsc": "Antybiotyk cefalosporynowy trzeciej generacji stosowany w leczeniu infekcji. Zwiększa odporność organizmu na pewien czas, lecz również powoduje on ból.",
         "reliefcream": "Krem łagodzący",
         "reliefcreamdsc": "Mieszanka chemikaliów i leków, która natychmiast uśmierza ból oraz dezynfekuje rany",
-        "localanesthetic": "Local anesthetic",
-        "localanestheticdsc": "Causes absence of all sensation in the limb its injected into. This disables pain, but also makes the limb unusable. 10mL lasts for one minute.",
+        "localanesthetic": "Środek znieczulający miejscowo",
+        "localanestheticdsc": "Powoduje brak wszelkich odczuć w części ciała w którą jest wstrzyknięty. Blokuje to ból, ale sprawia też że dana kończyna staje się bezużyteczna. 10mL działa przez jedną minutę.",
         "woundglue": "Klej do ran",
         "woundgluedsc": "Hemostatyczna, antybiotyczna substancja przypominająca klej. Zwalcza infekcje i przyspiesza gojenie. Jest bardzo skuteczna w zamykaniu krwawiących ran. Może powodować problemy z krążeniem - używaj z ostrożnością.",
         "keratinbooster": "Wzmacniacz keratyny",
@@ -1489,8 +1533,10 @@
         "dunespecialtraderdsc": "Jedzenie.",
         "Shelly": "Shelly",
         "clicktocontinue": "Kliknij, aby kontynuować...\nESC aby pominąć",
-        "clicktocontinuealt": "Click to continue...",
+        "clicktocontinuealt": "Kliknij, aby kontynuować...",
+        "favourite": "Favourite item",
         "favouriteditem": "Polubione przedmioty nie zostaną użyte podczas wytwarzania",
+        "customizeitem": "Customize item",
         "mainhand": "Główna ręka",
         "secondaryhand": "Druga ręka",
         "mouth": "Pysk",
@@ -1508,10 +1554,10 @@
         "char0quirks": "[PSOWATY] - Twój żołądek nie lubi się z with teobrominą.\n[BIOLUMINESCENT_SIGHT] - W sytuacji kryzysowej, jesteś swoim własnym źródłem światła.",
         "char1name": "[SAW-03] \"Milky\"",
         "char1desc": "[FAMILY] \"Psowaty\"\n[CALLOUT_QUOTE] \"Niech będzie.\"\n[SUCCESS_PREDICTION] \"0.0103%\"\n[NOTES] \"Taki trochę zarozumialec\"",
-        "char1quirks": "<spoiler>",
+        "char1quirks": "[NARCOLEPTIC] - Your sleep cycle is much shorter, but you don't feel the negative effects of sleeping on rough surfaces.\n[STATURE] - You're tiny!\n[ADAPTED_EYES] - You see better and light sources extend farther.\n[SEMI_HERBIVORE] - Meat makes you slightly sick and gives less nutrition.\n[SCRAWNY] - All STR and RES gain is halved.\n[MARKSMAN] - You can use keybinds to handle firearms and see the ammo count.\n[STRONG_FACADE] - It'll take more to break you mentally. You aren't one to be affectionate, unless you really need it.\n[CANINE] - Your stomach doesn't play well with theobromine.",
         "char2name": "[SAW-12] \"Dune\"",
         "char2desc": "[FAMILY] \"Insektoid\"\n[CALLOUT_QUOTE] \"Hrrrr... czas iść dla Du-na..?\"\n[SUCCESS_PREDICTION] \"0.001%\"\n[NOTES] \"Bleh! Ślini się!\"",
-        "char2quirks": "<spoiler>",
+        "char2quirks": "[AQUATIC] - You can breathe underwater and like sleeping there.\n[FURLESS] - The lack of fur leaves you vulnerable to the ambient temperature. You dry off a lot faster. Groundwater and other liquids will stabilize your body temperature.\n[CANNIBAL] - You can eat raw meat and destroy corpses with no repercussions. You are generally immune to food poisoning.\n[CARNIVORE] - Eating fruit will cause you to vomit it right back out.\n[MUSCLE_FOR_BRAINS] - You don't <i>do</i> thinking. All INT gain is halved.\n[UNFEELING] - Mood is dampened by one third. You can't hug or haggle. You don't find killing people a significant event.\n[CHITINOUS] - Chitinous growths make you resilient to physical trauma.",
         "characterunlock": "[ACCESS_DENIED]",
         "characterunlockdsc": "Ukończ grę poprzednią postacią, aby odblokować",
         "presetnormal": "Normalny",
@@ -1579,6 +1625,8 @@
         "runsetstrokesdsc": "Zmienia czy możesz dostać udaru podczas przełomu nadciśnieniowego.",
         "runsetbraindamagefx": "Efekty uszkodzenia mózgu",
         "runsetbraindamagefxdsc": "Określa, czy uszkodzenie mózgu powoduje okresowe ataki",
+        "runsetcrushdepth": "Crush depth damage",
+        "runsetcrushdepthdsc": "Determines if you eventually start taking damage below crush depth",
         "runsetinfinitelaststand": "Nieskończona ilość \"Drugich oddechów\"",
         "runsetinfinitelaststanddsc": "Zmienia czy \"Drugi oddedh\" może pojawić się częściej niż raz w podejściu.",
         "runsetmoodnormalizationrate": "Prędkość normalizacji nastroju",
@@ -1622,24 +1670,24 @@
         "runsetoreamountdsc": "Jak dużo miedzi/ilmenitu jest na każdej warstwie",
         "runsetminigamehandshake": "Poziom trzęsienia się ręki",
         "runsetminigamehandshakedsc": "Zmienia jak bardzo trzęsie ci się ręka podczas minigier",
-        "runsetpermanentaddiction": "Permanent addiction",
-        "runsetpermanentaddictiondsc": "One way or another, you acquired an opioid addiction back in the labs. No matter how hard you try to be clean, it won't go away. You'll have to constantly search for opioids, or die.",
-        "runsetmindwiped": "Mindwiped",
+        "runsetpermanentaddiction": "Trwałe uzależnienie",
+        "runsetpermanentaddictiondsc": "W ten bądź inny sposób, uzależniłeś się od opioidów w laboratoriach. Nie ważne jak bardzo będziesz próbować odwyknąć, nie uda ci się. Będziesz musiał ciągle szukać opioidów, albo umrzeć.",
+        "runsetmindwiped": "Starty Umysł",
         "runsetmindwipeddsc": "...",
-        "runsetzeroskills": "Zero skills",
-        "runsetzeroskillsdsc": "You never <i>really</i> did anything in your life, other than sitting in the corner and eating your rations. Start with 0 STR/RES/INT.",
-        "runsetblind": "Blind",
-        "runsetblinddsc": "Some kind of terrible experiment left you permanently blind. No cane included.",
-        "runsetamputee": "Quadruple amputee",
-        "runsetamputeedsc": "Some kind of terrible experiment left you with no extremities. At least you have some kick-ass wooden legs and arms!",
-        "runsetimmortalsnail": "Immortal snail",
-        "runsetimmortalsnaildsc": "Some incomprehensible force has taken a special interest in you, slowly making its way to you anytime you're awake. Don't let it touch you.",
-        "rundivrunwide": "Progression settings",
-        "rundivlayer": "World settings",
-        "rundivplayer": "Player settings",
-        "rundivtrader": "Trader settings",
-        "rundivother": "Other",
-        "rundivchallenges": "Challenges",
+        "runsetzeroskills": "Brak umiejętności",
+        "runsetzeroskillsdsc": "Nigdy <i>tak naprawdę</i> czegokolwiek nie robiłeś, oprócz siedzenia w kącie i jedzenia swoich racji. Zaczynasz z 0 STR/RES/INT.",
+        "runsetblind": "Oślepiony",
+        "runsetblinddsc": "Jakiegoś rodzaju okropny eksperyment trwale cię oślepił. Laska nie dołączona w pakiecie.",
+        "runsetamputee": "Czterokrotna amputacja",
+        "runsetamputeedsc": "Jakiegoś rodzaju okropny eksperyment pozbawił cię kończyn. Ale przynajmniej masz wyczepiste drewniane nogi oraz ręce!",
+        "runsetimmortalsnail": "Nieśmiertelny ślimak",
+        "runsetimmortalsnaildsc": "Jakaś nie do zrozumienia siła szczególnie się tobą zainteresowała, powoli zbliżając się do ciebie gdy tylko jesteś przytomny. Nie pozwól się jej złapać.",
+        "rundivrunwide": "Ustawienia progresji",
+        "rundivlayer": "Ustawienia świata",
+        "rundivplayer": "Ustawienia gracza",
+        "rundivtrader": "Ustawienia handlarzy",
+        "rundivother": "Inne",
+        "rundivchallenges": "Wyzwania",
 
         "tutorialwarning": "<size=150%>Zanim pójdziesz...\n\n<size=100%>Nie przeszedłeś jeszcze podstawowego samouczka.\nCzy jesteś pewien, że chcesz iść na ślepo?\n\n\n\nBolesna śmierć jest wręcz gwarantowana.",
         "tutorialwarningyes": "Chcę zrobić samouczek",
@@ -1675,8 +1723,8 @@
         "gamesetpixelatedsc": "Przełącza pomiędzy obrazem skalowanym w dół a w pełnej rozdzielczości. Pamiętaj, że wyłączenie rozpikselowanego obrazu utraci na zamierzonej aestetyce gry.",
         "gamesetdarkerbackground": "Ciemniejsze tła",
         "gamesetdarkerbackgrounddsc": "Zaciemnia tła jaskiń aby zwiększyć kontrast.",
-        "gamesetfastcamera": "Simple camera",
-        "gamesetfastcameradsc": "Locks the camera to the player at all times",
+        "gamesetfastcamera": "Prosta kamera",
+        "gamesetfastcameradsc": "Bezwzględnie blokuje kamerę na graczu",
         "gamesetbloom": "Rozbłysk światła",
         "gamesetbloomdsc": "Sprawia, że jasne rzeczy wyglądają lepiej. Ma też wpływ na efekt zabrudzenia obiektywu.",
         "gamesetfilmgrain": "Ziarno filmowe",
@@ -1705,6 +1753,13 @@
         "gamesetskipintrodsc": "Bo widziałeś już intro o jeden raz za dużo...",
         "gamesetrpc": "Integracja z discordem",
         "gamesetrpcdsc": "Jeżeli włączone, aktywność w grze będzie wyłapana przez okno klienta discord i pokazana na twoim profilu.",
+        "gamesethidemenuprogression": "Hide menu progression",
+        "gamesethidemenuprogressiondsc": "If on, disable special trinkets that appear in the main menu as you complete certain endings. Use if you want to avoid spoiling someone",
+        "gamesetunits": "Measurement units",
+        "gamesetunitsdsc": "What units to display distance/temperature/weight as",
+        "gamesetunitsmetric": "Metric",
+        "gamesetunitsimperial": "Imperial",
+        "gamesetunitsburger": "Cheeseburger",
         "gamesetmastervolume": "Głośność ogólna",
         "gamesetmastervolumedsc": "",
         "gamesetmusicvolume": "Głośność muzyki",
@@ -1732,6 +1787,7 @@
         "gamesetwoundview": "Otwórz Panel Zdrowia",
         "gamesetcraft": "Otwórz Menu wytwarzania",
         "gamesetfavourite": "Oznacz przedmiot jako ulubiony",
+        "gamesetcustomizeitem": "Customize item",
         "gamesettoggleinventory": "Przełącz ekwipunek",
         "gamesetspeed1": "Ustaw normalną prędkość",
         "gamesetspeed2": "Ustaw szybszą prędkość",
@@ -1779,18 +1835,18 @@
         "youdescription": "<sprite index=20>Ekwipunek",
         "wet": "W wodzie",
         "missionhurry": "POSPIESZ SIĘ",
-        "bandageMinigameGuide": "Kliknij i przeciągnij opatrunek wokół kończyny, aby ją zabandażować.\nNie musisz zużywać całego opatrunku.",
+        "bandageMinigameGuide": "Kliknij i przeciągnij opatrunek wokół kończyny, aby ją zabandażować.",
         "syringeMinigameGuide": "Przeciągnij strzykawkę w dół, aby zrobić zastrzyk. Pamiętaj, żeby sprawdzić dawkowanie.",
         "lockpickMinigameGuide": "Kliknij dowolne miejsce na łuku, aby spróbować otworzyć zamek.\nIm bliżej tego miejsca, tym bardziej się przekręci.\nUważaj, żeby nie złamać swoich pazurów.",
         "lifepodMinigameGuide": "Dopasuj kod, aby otworzyć",
         "shrapnelMinigameGuide": "Wyciągaj odłamek powoli. Zrobienie tego za szybko będzie boleć.\nUżywanie pęsety znosi limit prędkości wyjmowania.",
         "dislocationMinigameGuide": "Pchnij kość we właściwe miejsce, aby nastawić zwichnięcie.\nUżycie klucza znacznie zmniejszy ból.",
-        "dislocationMinigameGuideAlt": "Hit the prosthesis back into the correct spot.",
-        "amputationMinigameGuide": "Przepiłuj kończynę, aby ją amputować. Pamiętaj, aby później zatamować krwawienie.",
+        "dislocationMinigameGuideAlt": "Pchnij protezą we właściwe miejsce.",
+        "amputationMinigameGuide": "Przepiłuj kończynę, aby ją amputować.",
         "aedMinigameGuide": "Postępuj zgodnie z wyświetlanymi instrukcjami.",
         "manualDefibMinigameGuide": "Dopasuj ładunek proporcjonalnie do etapu rozwinięcia migotania, naładuj, a następnie wywołaj wstrząs. Powtórz, jeśli trzeba.\nSugerowana wartość (POW.EST) staje się dokładniejsza wraz ze wzrostem poziomu INT",
         "handCrankMinigameGuide": "Złap za korbkę i obracaj ją, aby ładować.",
-        "prosthesisMinigameGuide": "Reinforce the prosthesis using the bits of material shown.",
+        "prosthesisMinigameGuide": "Wzmocnij protezę używając kawałków określonych materiałów.",
         "aedstate0": "Umieść elektrody w określonych miejscach.",
         "aedstate1": "Analizowanie pulsu",
         "aedstate2": "Wstrząs zalecany.\nNaciśnij przycisk, aby wykonać wstrząs.",
@@ -1845,9 +1901,9 @@
         "craftexample": ", na przykład <color=#AAAAAA><><color=#666666>",
         "craftanyliquid": "Dowolny płyn z",
         "craftitemquality": "- (<1>) <2> jakości",
-        "craftliquidquality": "- Razem (<1>) <2> jakości",
-        "craftcondition": "- Przynajmniej <>% jakości",
-        "craftml": "- Przynajmniej <>mL",
+        "craftliquidquality": "- (<1>) <2> jakości",
+        "craftcondition": "- ><>% jakości",
+        "craftml": "- <>mL",
         "craftinfocondition": "Wytrzymałość: ",
         "craftinfovolume": "Objętość: ",
         "craftinfoamount": "Ilość: ",
@@ -1997,15 +2053,16 @@
         "alerttoounhappy": "Nie możesz używać leków nieopioidowych, przy tak niskim samopoczuciu!",
         "alertlimbmissing": "<1> nie jest na miejscu, przez co <2> nie nadaje się do użytku!",
         "alertsellcontainer": "Opróżnij pojemnik przed sprzedaniem go!",
-        "alertprosthesisbody": "Use the prosthesis on the thorax/abdomen to replace a missing arm/leg.",
-        "alertprosthesisarm": "None of your arms are fully dismembered! Try removing any stumps.",
-        "alertprosthesisleg": "None of your legs are fully dismembered! Try removing any stumps.",
-        "alertprosthesisfail": "You failed to attach the prosthesis (Attaching below <> INT may fail).",
+        "alertprosthesisbody": "Użyj protezy na klatce piersiowej/brzuchu aby zastąpić brakującą rękę/nogę.",
+        "alertprosthesisarm": "Żadna z twoich rąk nie jest w pełni rozczłonkowana! Spróbuj usunąć kikuty.",
+        "alertprosthesisleg": "Żadna z twoich nóg nie jest w pełni rozczłonkowana! Spróbuj usunąć kikuty.",
+        "alertprosthesisfail": "Nie udało ci się przymocować protezy (Mocowanie poniżej <> INT może się nie udać).",
         "alertnanotechsuccess": "<spoiler>",
         "alertnanotechfail": "<spoiler>",
         "alertnanotechrepeat": "<spoiler>",
-        "nanotechdepth": "NANO-TECH Signature detected at this depth!",
-        "nanotechdepthinitial": "NANO-TECH Signature detected in this area...",
+        "nanotechdepth": "Sygnatura nanotechnologii wykryta na tej głębokości!",
+        "nanotechdepthinitialleft": "NANO-TECH Signature detected in this area, to the left...",
+        "nanotechdepthinitialright": "NANO-TECH Signature detected in this area, to the right...",
         "insertsample": "Włóż próbkę",
         "tradeinteract": "Handluj",
         "read": "Przeczytaj",
@@ -2015,7 +2072,7 @@
         "open": "Otwórz",
         "insertbattery": "Włóż baterię z głównej ręki",
         "lockpick": "Wytrych",
-        "dosurgery": "Do surgery on yourself",
+        "dosurgery": "Operuj na sobie",
         "finaltravel": "Bierz się do rzeczy i wyruszaj w podróż",
         "lookcloser": "Przyjrzyj się bliżej",
         "examine": "Zbadaj",
@@ -2079,9 +2136,11 @@
         "endscreenstatus": "PPD-ŁADUNEK RAPORT STATUSU",
         "endscreenunresolved": "NIEZREALIZOWANY",
         "endscreenresolved": "ZREALIZOWANY",
+        "endscreenescape": "MORE INFO AT MEETING",
         "endscreenfailure": "KATASTROFICZNE NIEPOWODZENIE",
         "endscreencasualties": "OFIARY:",
         "endscreenunknown": "NIEZNANE",
+        "endscreenmerc": "UNKNOWN - POTENTIAL ISSUE",
         "endscreenphysical": "STATUS FIZYCZNY:",
         "endscreendeceased": "ZMARŁY",
         "endscreenexamination": "ŻYWY, W TRAKCIE BADAŃ",
@@ -2199,7 +2258,7 @@
         "tutbasic65": "Być może przycisk drzemki tuż pod wpadł ci także w oko.",
         "tutbasic66": "Sen jest ważny dla odzyskiwania energii. Zrobiliśmy ci małe legowisko, spróbuj się tam zdrzemnąć!",
         "tutbasic67": "Materiał, na którym śpisz, ma znaczenie! Guma jest szczególnie wygodna, podczas gdy kamień jest bardzo nieprzyjemny. Dobrze jest dać swoim plecom odpocząć od czasu do czasu.",
-        "tutbasic68": "To podsumowuje twój ostatni kompetencyjno-korekcyjny kurs treningowy. Możesz teraz wrócić do swojego desygnowanego pomieszczenia.",
+        "tutbasic68": "To podsumowuje twój ostatni kompetencyjno-korekcyjny kurs treningowy. Możesz teraz wrócić do swojego przydzielonego pomieszczenia.",
         "tutaid1": "Witaj w Kursie Pierwszej Pomocy. Omówimy twoje ciało, niektóre urazy oraz jak się z nimi uporać.",
         "tutaid2": "Otwórz panel zdrowia. Możesz na mnie szczeknąć przy pomocy [B] jeśli chcesz pominąć tę część.",
         "tutaid3": "Nadszedł czas zacząć zwracać uwagę na ten duży panel po lewej. Z początku może wydawać się przytłaczający, ale skupimy się tylko na najważniejszych.",
@@ -2228,7 +2287,7 @@
         "tutaid26": "Odprowadzam teraz twoją krew. Zobacz, co dzieje się z twoim ciśnieniem.",
         "tutaid27": "Jako że twoje ciśnienie jest teraz bardzo niskie, twoje serce jest zmuszone do kompensowania poprzez przyspieszanie.",
         "tutaid28": "Ma to jednak swoje limity. Jeżeli bardzo wysokie tętno lub bardzo niskie ciśnienie się utrzyma, może zajść do czegoś takiego jak MIGOTANIE.",
-        "tutaid29": "Fibrylacja jest to proces, przez który rytm serca staje się coraz bardziej nieregularny, a w końcu ustaje. Zabija ona w ciągu dwóch minut.",
+        "tutaid29": "Migotanie jest to proces, przez który rytm serca staje się coraz bardziej nieregularny, a w końcu ustaje. Zabija ona w ciągu dwóch minut.",
         "tutaid30": "Możesz zauważyć humorek arytmii w lewym dolnym rogu. Jest to właśnie oznaka migotanie.",
         "tutaid31": "To jest automatyczny defibrylator zewnętrzny (AED). Jest w stanie przerwać proces migotania, stabilizując twoje serce.",
         "tutaid32": "Użyj go na swojej klatce piersiowej w panelu zdrowia i zastosuj się do instrukcji, które ci da. Czas tyka...",
@@ -2274,13 +2333,15 @@
         "tutaid70": "BUU!",
         "tutaid71": "To przeszło szybko, czyż nie?",
         "tutaid72": "Bądź ostrożny ze środkami przeciwbólowymi - możesz na nich łatwo przedawkować, albo borykać się po nich z objawami odstawienia. Nalokson i naltrekson są w stanie pomóc z nadużyciem.",
-        "tutaid73": "To podsumowuje Kurs Pierwszej Pomocy. Moglibyśmy pokryć więcej, ale wierzymy, że bezpiecznie rozwikłasz inne urazy. Możesz teraz wrócić do swojego desygnowanego pomieszczenia.",
+        "tutaid73": "To podsumowuje Kurs Pierwszej Pomocy. Moglibyśmy pokryć więcej, ale wierzymy, że bezpiecznie rozwikłasz inne urazy. Możesz teraz wrócić do swojego przydzielonego pomieszczenia.",
         "tutcraft1": "Witaj w Kursie Wytwarzania. Pokryjemy dzisiaj szczegóły samozaopatrywania się oraz pokażemy typowy tok postępowania.",
         "tutcraft2": "Prawie wszystko dookoła ciebie jest prawdziwą materią, a nie czymś bezużytecznym.",
         "tutcraft3": "Możesz pozyskać metal ze stert złomu albo pułapek, drewno z drewnianych struktur, listowie z roślin, itp.",
         "tutcraft4": "Twoim celem będzie stworzenie wyznaczonego przedmiotu przy użyciu tego, co będzie tobie dane.",
         "tutcraft5": "Zakładamy, że już znasz przynajmniej rychłe podstawy wytwarzania. Stwórz torbę z listowia przy użyciu tychże materiałów. Użyj czerwonego przycisku jeżeli się pomylisz aby spróbować jeszcze raz.",
         "tutcraft6": "Pierwsze kroki. Bardzo dobrze. Zdobycie pojemnika powinno zawsze być twoim pierwszym priorytetem.",
+        "tutcraft6a": "You can label items for organizational purposes. Press [N] on the bag you made, and color it green (the third swatch from the left).",
+        "tutcraft6b": "Nice. You can also rename the item here. Close this menu when you're done.",
         "tutcraft7": "Ważne jest wspomnieć, że do wytwarzania możesz używać przedmiotów na ziemi, jeśli są one w zasięgu ręki. Szczeknij na mnie za pomocą [B] jak już zrozumiesz, o co mi chodzi.",
         "tutcraft8": "Spróbujmy jeszcze raz z tymi samymi zasobami. Stwórz teraz pełen bandaż. Możesz przeciągnąć dowolny przedmiot na przycisk menu wytwarzania, aby zobaczyć w jakich przepisach jest używany.",
         "tutcraft9": "Bardzo dobrze. Bandaże są bardzo tanie w wykonaniu, a jednak niezbędne do przetrwania. Powinny być twoim priorytetem tuż po zdobyciu pojemnika.",
@@ -2303,28 +2364,59 @@
         "tutcraft26": "Dobrze. Przejdziemy teraz do twojego ostatniego wyzwania.",
         "tutcraft27": "Stwórz mini wiertło laserowe oraz baterię, którą można włożyć do niego. To jest twój ostatni cel na dziś.",
         "tutcraft28": "Bardzo dobrze!",
-        "tutcraft29": "To podsumowuje kurs wytwarzania. Mamy nadzieję, że znajdziesz okazje do używania wiedzy, którą dzisiaj tobie przedstawiliśmy. Możesz teraz wrócić do swojego desygnowanego pomieszczenia.",
-        "tutmove1": "Welcome to the Advanced Movement Training Course. Please make your way up this shaft. Make use of the walls to ascend.",
-        "tutmove2": "You can traverse up narrow shafts the same way.",
-        "tutmove3": "You can use walls to slow your descent. Please slide down the leftmost wall.",
-        "tutmove4": "Hold down [X] and move to crawl. You can destroy blocks while prone.",
-        "tutmove5": "Crawl through these narrow tunnels. Moving your head by looking around will help you position yourself better.",
-        "tutmove6": "You can crouch mid-air to get into 3 tile high holes.",
-        "tutmove7": "You can jump off of walls while crouching as well.",
-        "tutmove8": "Attacking and throwing things pushes you back in the opposite direction. Pick up this minibarrel.",
-        "tutmove9": "How did you even get up there..? Odd. Either way, please pick up the next barrel.",
-        "tutmove10": "Charge up a throw, jump then throw the barrel downwards. Scale the wall by boosting yourself with the throw.",
-        "tutmove11": "Well done. The heavier the object thrown, the further you will be launched. Pick up the next barrel.",
-        "tutmove12": "Jump down this opening, then cancel your moment by throwing the barrel downwards before ground impact. Do not touch the walls.",
-        "tutmove13": "Nicely done.",
-        "tutmove14": "Swinging at and hitting things pushes you back in a similar fashion. Try getting up the right-most wall while swinging mostly downwards at it.",
-        "tutmove15": "Pick up this sledgehammer and repeat hit-boosting using it. You will gain significantly more height due to the sledgehammer's knockback.",
-        "tutmove16": "Now, jump and right after jumping, hit the floor right below you with the sledgehammer. You will gain more height. Make your way up the shaft.",
-        "tutmove17": "Well done! Combining these skills is key in maneuvering around the environment effectively. You may now return to your assigned room.",
+        "tutcraft29": "To podsumowuje kurs wytwarzania. Mamy nadzieję, że znajdziesz okazje do używania wiedzy, którą dzisiaj tobie przedstawiliśmy. Możesz teraz wrócić do swojego przydzielonego pomieszczenia.",
+        "tutmove1": "Witaj w Kursie Treningowym Zaawansowanego Ruchu. Proszę przedostań się na szczyt tego szybu. Użyj ścian aby się wspiąć.",
+        "tutmove2": "Możesz przemieszczać się wzdłuż wąskich szybów w ten sam sposób.",
+        "tutmove3": "Możesz użyć ścian aby spowolnić spadanie. Proszę ześlizgnij się na lewej ścianie.",
+        "tutmove4": "Przytrzymaj [X] i poruszaj się aby się czołgać. Możesz niszczyć bloki też na leżąco.",
+        "tutmove5": "Przeczołgaj się przez te wąskie tunele. Poruszanie głową poprzez rozglądanie się pomoże ci ustawić się w lepszej pozycji.",
+        "tutmove6": "Możesz kucnąć w powietrzu aby dostać się w dziury wysokie na 3 bloki.",
+        "tutmove7": "Podczas kucania nadal możesz odbijać się od ścian.",
+        "tutmove8": "Atakowanie i rzucanie odrzuca cię w przeciwnym kierunku. Podnieś tę mini-beczkę.",
+        "tutmove9": "Jakżeś się tam dostał..? Dziwne. W każdym razie, podnieś proszę następną beczkę.",
+        "tutmove10": "Przytrzymaj rzut, a następnie skocz i rzuć beczką w dół. Wespnij się na ścianę poprzez podsadzenie się rzutem.",
+        "tutmove11": "Dobra robota. Im cięższy rzucony obiekt tym dalej cię odrzuci. Podnieś następną beczkę.",
+        "tutmove12": "Zeskocz w ten otwór, a następnie zniweluj swój pęd poprzez rzucenie beczką w dół tuż przed uderzeniem w ziemię. Nie dotykaj ścian.",
+        "tutmove13": "Nieźle.",
+        "tutmove14": "Zamachiwanie się i uderzanie odpycha cię w podobny sposób. Spróbuj dostać się na ścianę po twojej prawej stronie wykonując ataki skierowane głównie w dół.",
+        "tutmove15": "Podnieś ten młot i powtórz podsadzenie się przez uderzenie, używając go. Odrzut młota zapewni ci zdecydowanie więcej wysokości.",
+        "tutmove16": "Teraz skocz i zaraz po skoku uderz podłoże młotem. W ten sposób zyskasz więcej wysokości. Wejdź w górę szybu.",
+        "tutmove17": "Dobra robota! Łączenie tych umiejętności jest kluczowe w efektywnej nawigacji w terenie. Możesz teraz wrócić do swojego przydzielonego pomieszczenia.",
         "tutclosehealthpanel": "Zamknij panel zdrowia.",
         "tutopenhealthpanel": "Otwórz panel zdrowia.",
         "tutnice": "Super.",
+        "endsc1": "...Greetings, #<>. We see you have succesfully retrieved th-",
+        "endsc2": "Huh..? Uhm, #<>, please explain. Why is the objective...lodged inside of your abdomen?",
+        "endsc3": "...Okay. Well...that does change our plans slightly, but...either way.",
+        "endsc4": "Your achievement is highly impressive and we will study you further. Here's what's going to happen...",
+        "endsc5": "To ease your concerns upfront, you will get to live. However, we must first examine your body and mental state. You will be free to roam around the facility after and you will not be subject to our usual testing procedures.",
+        "endsc6": "We may discuss additional benefits later down the line...",
+        "endsc7": "...And, as for the objective...this must be looked into further. It will have to be removed from your body, one way or another.",
+        "endsc8": "Now...do you have any questions? We would like to continue as soon as possible.",
+        "endsc9": "...Very well. First, your body must go under close examination. Please proceed through the door to your right.",
+        "endsc10": "What's the hold up? Please proceed through the door to your right.",
+        "endsc11": "The door behind you. Go through it.",
+        "endsc12": "We don't have all day. Come on. Door to your right.",
+        "endsc13": "Ugh. Why do I always get the stubborn ones..?",
+        "escapealert": "Attention all site personnel. A type W-2 incident has occured. All security personnel is to arm. Please remain calm while the situation is resolved.",
+        "cargosurgery1": "Hurry. I need to inject that anesthetic into my abdomen.",
+        "cargosurgery2": "Guards are coming. I need to use that big surgical device.",
+        "cargosurgery3": "I need to put these clamps into the marked spots.",
+        "cargosurgery4": "I need to pull the cargo out of body.",
+        "cargosurgery5": "I need to put these tubes over the wound.",
+        "cargosurgery6": "I need to go.",
+        "endsctip": "Get your shit together. I need to murder him. Now.",
         "outdatedwarning": "<size=200%>Hej!<size=100%>\nWybrany plik języka jest przedawniony. Niektóre linie tekstu mogą być zepsute.\nMożesz zmienić język na angielski albo spróbwać znaleść nowszą wersję.",
+        "surfacebreachnote": "As you breach through the final few layers of gravel and rock that separate you from the wide open air, a blinding light unveils itself through the cracks.<>\n\nYou've travelled through hell and back, surpassed thousands of, what are now corpses, and have become the first and only one to complete your assigned objective.<>\n\nYou step foot on the cold gravel. Buildings, mountains and various groups of people appear in the horizon. You have breached the surface.",
+        "labenternote": "Soon after, you see a flash in the sky accompanied by an unrecognizable loud beeping.<>\n\nA few minutes pass while you appreciate your newfound surroundings, before some kind of pod loudly crashes into the ground a short distance away.<>\n\nWhile you've seen hundreds of lifepods during your journey, this one looks nothing like the ones before. You figure this one is meant for you.<>\n\nA significant part of you wants to rebel and run far, far away, however...<>\nIt feels as if with every moment you spend in the sunlight, the object lodged in your abdomen wriggles around painfully and vibrates with progressively higher force.<>\n\nFearing the likely catastrophic failure of the hearts structural integrity approaching at a rapid pace, you board the lifepod with a defeated look on you.\nSoon after you do, you are thrown to the floor by a sudden jolt. The pod is ascending.<>\n\nWhile you don't know where you're going, you are slightly reassured by the fact that whoever sent this vessel down probably does. You decide to hunker down and make yourself comfortable while you wait.<>\n\nSuddenly, a bright flash overwhelms your vision. You feel an indescribable physical sensation shooting through you - the very same one you felt when first arriving here.\n\nAfter it dies down, you look outside the pod to find yourself surrounded by a hazy, blue sky above what appears to be a green forest with some kind of huge facility in the midst of it.<>\n\nThe vessel slowly descends into some kind of hatch inside of said facility. Soon, the pod locks in place, the steel door opens, revealing the sight of...",
+        "biopodnote": "Trying to rebel against your captors with an explosive chip in your head is equivalent to suicide. The weird object lodged in your torso also seems dangerous to keep inside you for too long. With no better options at your disposal, you follow the orders given to you.<>\n\nYou are soon escorted by a group of armed guards into a room with a large capsule filled with fluid. You have seen some of your kind inside of these before. You know what that entails.<>\n\nYou have completed your objective, yet it only brought you back to this prison. Simply used as a pawn by the corporation. You are at least comforted by the fact that, since the mission is now complete, no more unaware souls will be sent to their deaths in the caves.<>\n\nThis thought calms you as you reluctantly give up all the gadgets that you've found on your journey and prepare to enter the bio-pod. The cargo seems to be stabilizing...<>\n\nAs you slowly submerge in the liquid, with various tubes and wires now attached to your body, you think about what the scientist said. At least you'll live a better life here. More privilege, more freedom, better food, no risk of being hurt by the various tests conducted here... A faint smile appears on you as your consciousness fades into a deep sleep.",
+        "biopodnotealt": "You are quickly taken away, restrained, stripped of your gear and resuscitated to avoid any more signifcant damage to the brain and the rest of your body.\n\nSome time later, you are escorted by a group of armed guards into a room with a large capsule filled with fluid. You have seen some of your kind inside of these before. You know what that entails.<>\n\nYou have completed your objective, yet it only brought you back to this prison. Simply used as a pawn by the corporation. You are at least comforted by the fact that, since the mission is now complete, no more unaware souls will be sent to their deaths in the caves.<>\n\nThis thought calms you as you prepare to enter the bio-pod. The cargo seems to be stabilizing...<>\n\nAs you slowly submerge in the liquid, with various tubes and wires now attached to your body, you think about what the scientist said. At least you'll live a better life here. More privilege, more freedom, better food, no risk of being hurt by the various tests conducted here... A faint smile appears on you as your consciousness fades into a deep sleep.",
+        "biopodnotealt2": "You are quickly restrained, taken away, stripped of everything and resuscitated to avoid any more signifcant damage to the brain and the rest of your body.\n\nA significant amount of time later, you are moved by a group of armed guards into a room with a large capsule filled with fluid. You have seen some of your kind inside of these before. You know what that entails.<>\n\nYou tried so hard to get out of this prison, yet it brought you nowhere. A meaningless attempt. You are at least comforted by the fact that, since the mission is now complete, no more unaware souls will be sent to their deaths in the caves.<>\n\nThis thought calms you as you prepare to enter the bio-pod.<>\n\nAs you slowly submerge in the liquid, with various tubes and wires now attached to your body, you think about your failure. So close to tasting freedom, to getting the ultimate revenge on your captors... And yet, it fell flat. If only you tried a little harder... A frown appears on you as your consciousness fades into a deep sleep.",
+        "escapenote1": "A bright shine radiates from the end of the corridor. You hear what sounds like wind blowing outside.\n<>\nThis is the end of the road. You have denied your captors with a skill and stubbornness no other being ever has.\n<>\nHurt, exhausted, yet determined, you walk into the light.",
+        "escapenote2": "...So, that's what they were hiding from you all this time.\n<>\nWhile you admire the beauty of your newfound surroundings, the loud sounds coming from where you just came out of remind you that you still need to move.\nWithout much choice, you run into what looks like a field of tall, green plants with large brown stalks.\n<>\nYou run.<>\nYou keep running.<>\nYou run far, far away, until your legs give out.\n<>\n...\n<>\nSilence. Nothing but what sounds like chirping and the sound of blowing wind. You can't even see the buildings on the horizon anymore.\n<>\n...\n<>\nYou have achieved your freedom.",
+        "mercnote1": "You breach through the final few layers of gravel and rock that separate you from the wide open air.<>\n\nYou've travelled through hell and back, surpassed thousands of, what are now corpses, and have become the first one to complete your assigned objective...\n...And yet, you feel like this is only the start of something greater.<>\n\nYou step foot on the cold gravel. Buildings, mountains and various groups of people appear in the horizon. You have breached the surface.",
+        "mercnote2": "Suddenly, you see a flash in the sky accompanied by an unrecognizable loud beeping.<>\n\nA few minutes pass while you appreciate your newfound surroundings, before some kind of pod loudly crashes into the ground a short distance away.<>\n\nWhile you've seen hundreds of lifepods during your journey, this one looks nothing like the ones before. You figure this one is meant for you...\n...But, you refuse to board it. Not after what they've done to you and so, so many others.<>\n\nThe captors must pay. The captors must die. You will not become another one of their pawns to be used for whatever deeds they want done. You're not coming back wherever they are until you can absolutely ruin everything they've built up over all these years.<>\n\nA bright hatred burns inside of you. They will not get away with any of this. To hell with their pod, to hell with their mission, to hell with whatever they want you to do.<>\n\nSo you stay.<>\n\n...<>\n\nYou've noticed the cargo inside of you has begun wriggling erratically ever since you came out into the sunlight.\nYou hesitate. Something is clearly up with the object lodged in your body, and it's getting worse by the minute. You fear something bad will happen if you just stay out here...<>\n\n...But you can't go back.\n\nYour scarf. You recall one of the body chips you found on the way had something about \"rejuvenation\" written on it. Maybe you'll be fine?<>\n\n...<>\n\nIt hurts. It hurts so much. Something is horribly wrong with the cargo. Your chest feels like it's burning. Your entire body feels like it's being electrocuted. You can't even stand up straight anymore. It hurts.\n\nThe pod's beeping gets louder. You realize, if you don't crawl your way onto it soon, you will die. Your mind starts racing. Do you really want to potentially throw away your life over some petty revenge?<>\n\nBut you can't move. The pain is too much. It hurts. It hurts. It hurts. It hu ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████",
+        "mercnote3": "...<>\n\n...<>\n\n..?<>\n\nWhat..?<>\n\nWhere am I..?\n\nWhy...<>\n\nIt hurts...<>\n\n...<>\n\nWhat happened...?<>\n\nThis scarf... I...<>\n\n...<>\n\n...I remember.<>\n\n...I know what needs to be done.",
         "startlorenote": "Rok 2XXX\n<>\nPostęp technologiczny ludzkości znacznie się rozwinął. To, co kiedyś wydawało się niemożliwe, było teraz pospolite.\n<>\nW centrum tego wszystkiego stała jedna firma. Ich rozwój wydawał się niemal nadprzyrodzony, ale chronili swoich sekretów bardzo ostrożnie.\n<>\nLata temu udało im się stworzyć nowy gatunek: kombinację DNA zwierzęcia i człowieka, nazwaną \"Eksperymentami\".\n<>\nOwe eksperymenty były idealnymi królikami doświadczalnymi; Były wystarczająco ludzkie, lecz w pełni przynależne do firmy, badacze której mogli robić z nimi co chcieli. Modyfikowali nie, przeobrażając ich ciała coraz bardziej, by dopasować je do własnych potrzeb. Wraz z upływem lat, populacja eksperymentów rosła.\n\nŻaden z nich nie zobaczyłby nigdy świata na zewnątrz.\n<>\nW dzisiejszych latach Ziemia nie mogła już pomieścić ich ambicji. Wykorzystując nową technologię teleportacyjną, wybrali pewną tętniącą życiem szarą planetę.\n<>\nNiedługo po tym, mnóstwo najprzeróżniejszego towaru i śmieci zostało wysłanych.\n<>\nZe względu na trudności kalibracyjne, równie dużo co trafiło na powierzchnię wylądowało w systemie jaskiń planety. Pomimo tego projekt pozostał nieprzerwany. \n<>\nKontynuował tak, dopóki nieznany błąd sprawił, że bardzo ważna technologia została przypadkowo wysłana głęboko do jaskiń.\n<>\nNiedługo po tym, badacze wymyślili plan, który nie stwarzał ryzyka dla ich samych.\n<>\nSzanse powodzenia były małe, ale mięsa armatniego mieli mnóstwo.\n<>\nJesteś jednym z pechowych osobników.\nOpór nie wchodzi w grę."
     },
     "character": [
@@ -4091,24 +4183,89 @@
                 "...A-ach... No... Dobra... D-dowidzenia, zatem..."
             ],
             "wwmr": [
-                "Okay... I'm here... I'm finally down here. Let's do this. The objective should be somewhere around here.",
-                "The... Objective... Should be somewhere in here... No more messing around. Let's go.",
-                "I made it... I made it..? Hmmh... It should be somewhere around here... Let's get this over with."
+                "Okej... Wreszcie tutaj... Wreszcie tu jestem. Do dzieła. Cel powinien gdzieś tu być.",
+                "Cel... Powinien gdzieś tu być... Koniec z wygłupami. Do dzieła.",
+                "Dotarłem... Dotarłem..? Hmmh... Powinien gdzieś tu być... Miejmy już to z głowy."
+            ],
+            "cargo1": [
+                "I... I think this... Is... it..?"
+            ],
+            "cargo2": [
+                "That... Is not a batt....wh... W-what's it... Doing..?"
+            ],
+            "cargoimpale": [
+                "AAAGHH! WHAT THE HELL!? WHY?"
+            ],
+            "cargoimpale2": [
+                "H-hmm... Well... I... I do feel... Empowered by this..? I feel... L-lighter."
+            ],
+            "cargoimpale3": [
+                "I... I r-really did it... Well... I'll... Let's not get too confident... I think I can use that pod to return. Let's get to the surface."
             ],
             "endlessloop0": [
                 "...Www-wh...what..? What? Why? What just... Why am I back here..? Hnn... What just happened..."
             ],
             "endlessloop1": [
-                "...This is not going like I hoped it would...I don't know what else I could do... Well. Ugh. Third time's the charm, I guess..? <TMP>"
+                "...This is not going like I hoped it would...I don't know what else I could do... Well. Ugh. Third time's the charm, I guess..?"
             ],
             "endlessloop2": [
-                "<spoiler>"
+                "UUUGGGHHHHH!! WHAT AM I SUPPOSED TO BE DOING!? Damn this... To hell with that heart... Grrrhh...I need to go down to survive anyway. What a shitshow."
             ],
             "endlessloop3": [
                 "Well! I'm not getting out of here, am I... I think I'm getting used to this."
             ],
             "endlessloopdefault": [
                 "Oh, round and round we go..."
+            ],
+            "endpodexamine": [
+                "C-cargo... First..."
+            ],
+            "ascententer": [
+                "Looks like thats as far as it'll go... The only way's up. Let's go."
+            ],
+            "labenter": [
+                "(I'll comply for now... Trying to go against them would get me killed. Maybe I'll find an opportunity...)"
+            ],
+            "labresponse": [
+                "(...Like hell I'm talking to them. Not after...that.)"
+            ],
+            "labthink1": [
+                "(This is the moment... If... If I had a gun, or something...)"
+            ],
+            "labthink2": [
+                "(I could... Kill him. Shoot that thing on the ceiling... Go through that grate. Escape..?)"
+            ],
+            "labthink2chip": [
+                "(I could... No. I can't. They'd kill me with the chip. Damn it.)"
+            ],
+            "labshoot": [
+                "NNGGRRAAAAHHHH!! FUCK YOU!!! I'M NOT TAKING ANY MORE OF YOUR SHIT!!!"
+            ],
+            "labcommentcalm": [
+                "Nghh... Grrh... They'll pay...",
+                "They'll pay for this...",
+                "Sufffer...the consequences...",
+                "So done. With. This. SHIT!",
+                "Go to hell. Go to hell. All of you...",
+                "It's the end.",
+                "Fuckers. Fuckers. Fuckers. Dipshits.",
+                "No one will care when they go missing.",
+                "(Nothing can stop me.)",
+                "Win stupid fucking prizes..."
+            ],
+            "labcommentcombat": [
+                "FUCK YOU!! FUCK YOU!!!! FUCK ALL OF YOU!!!!",
+                "I'LL WATCH THE LIFE DRAIN OUT OF YOUR EYES!!!",
+                "TO HELL WITH YOU!!!",
+                "NO MORE OF THIS SHIT!!",
+                "I'M DONE WITH THESE GAMES!!",
+                "GRRRAAHHHHH!!",
+                "WHO DO YOU THINK YOU FUCKING ARE!?",
+                "NO ONE WILL REMEMBER YOU!!",
+                "YOU'LL ALL PAY FOR WHAT YOU'VE DONE!!",
+                "I'M NOT GOING DOWN!!",
+                "YOU COATED FUCKS!!",
+                "GO TO HELL!!!!"
             ],
             "vomitresponse": [
                 "Mmm... Wszystko w porządku..?"
@@ -4903,6 +5060,24 @@
                 "Oh, oh, why, what, WHY!? STOP THIS! I DO NOT DESERVE THIS! YOU COATED DIPSHITS!",
                 "Hello, beeping. What could this mean?"
             ],
+            "wwmr": [
+                "All according to plan. It appears the objective is within reach. I must focus."
+            ],
+            "cargo1": [
+                "...Odd."
+            ],
+            "cargo2": [
+                "At long last, I have... H-H... What..?"
+            ],
+            "cargoimpale": [
+                "T-this... Was... Not in my... L-list of expectations..."
+            ],
+            "cargoimpale2": [
+                "Ghh... I-it is... Really... Lodged inside... Yet... It is relieving..."
+            ],
+            "cargoimpale3": [
+                "Hh. Focus. Very well. It is only logical that this was an intended part of the plan. I shall proceed into this drill pod and head upwards."
+            ],
             "endlessloop0": [
                 "...Hm. Hhm... Mhhhhmmmhh... Hhhhhmmm... O-okay. Not... N-not. What I. Was e-expecting. I must have done something wrong. I s-shall return and try once again."
             ],
@@ -4917,6 +5092,53 @@
             ],
             "endlessloopdefault": [
                 "......*sigh*"
+            ],
+            "endpodexamine": [
+                "It is unpowered. I likely would be able to start it with medium effort."
+            ],
+            "ascententer": [
+                "The pod has ceased to function. It is time to ascend on foot. There is little distance left."
+            ],
+            "labenter": [
+                "(I feel strong resentment for the coats... Yet, I cannot act now. I must continue with a level head.)"
+            ],
+            "labresponse": [
+                "(...Huh. That was NOT part of their plan?)"
+            ],
+            "labthink1": [
+                "(The time is now. They will not see it coming.)"
+            ],
+            "labthink2": [
+                "(Shoot the coat. Shoot the turret. Go through grate. It will be difficult, but I cannot let myself comply with these monsters.)"
+            ],
+            "labthink2chip": [
+                "(Shoot the......No. This chip will not allow me to go against them. I have failed. To them, I have succeeded.)"
+            ],
+            "labshoot": [
+                "TO HELL WITH YOU!!! YOU WILL PAY FOR WHAT YOU'VE DONE!!!"
+            ],
+            "labcommentcalm": [
+                "They will...pay...",
+                "No more games.",
+                "Go hell with everyone involved...",
+                "..Grrhh...",
+                "(I'm taking my freedom.)",
+                "They all deserve this.",
+                "(I'm scared.)",
+                "Ggh...dipshits...",
+                "(No one will miss them when they're gone.)"
+            ],
+            "labcommentcombat": [
+                "NNGRRAAHHH! DIE!",
+                "TO HELL WITH ALL OF YOU!!!",
+                "YOU'RE GOING DOWN WITH ME!!",
+                "YOU'VE GOTTEN AWAY WITH THIS FOR TOO LONG!!",
+                "CALL FOR BACKUP!! I DARE YOU!!",
+                "I WILL FUCKING DEVOUR YOU!!",
+                "DIE!!",
+                "SCREAM FOR HELP!!! COME ON!!",
+                "YOU THINK YOU CAN STOP ME!?",
+                "YOUR TIME HAS COME!!"
             ],
             "tradermeetnormal": [
                 "Pozdrówienia.",
@@ -5679,6 +5901,24 @@
             "selfdestruct": [
                 "Oooorrhhn! Du-ne new sou-nd? Hooohh..."
             ],
+            "wwmr": [
+                "Hooohh... Pla-ce... Glo-wy... Du-ne clo-se..?"
+            ],
+            "cargo1": [
+                "Du-ne see... Thin-g..."
+            ],
+            "cargo2": [
+                "Foo-d...? Hhoooohhhh....hhhooh..?"
+            ],
+            "cargoimpale": [
+                "GGRRRAAAAAHHHHHHHHHCCNNNKKKK!!!!! GGRRHHHAAAAGGHHHH!!!"
+            ],
+            "cargoimpale2": [
+                "GGHHHRRAAaaaahhh....hhnnnh...nnnh...n..?"
+            ],
+            "cargoimpale3": [
+                "Hhr...n..mmm...du-ne can lea-ve..."
+            ],
             "endlessloop0": [
                 "...Mmmrrnnngghh... Ngghh......a-gain?"
             ],
@@ -5693,6 +5933,45 @@
             ],
             "endlessloopdefault": [
                 "Nrrrg! Wheee! Du-ne win!"
+            ],
+            "endpodexamine": [
+                "Lea-ve ti-me?"
+            ],
+            "ascententer": [
+                "Oooo! Re-d..."
+            ],
+            "labenter": [
+                "(Du-ne back ho-me... Du-ne care-ful...)"
+            ],
+            "labresponse": [
+                "No-t kno-w."
+            ],
+            "labthink1": [
+                "(Hungry...)"
+            ],
+            "labthink2": [
+                "(Du-ne see food. Du-ne get. Du-ne lea-ve.)"
+            ],
+            "labthink2chip": [
+                "(Du-ne not get food. Du-ne sad.)"
+            ],
+            "labshoot": [
+                "NNNGGGRRRAAUUUGHHH!!!!! NGGRRRAAHHHGHHH!!! GRRRRAAAAAAAAAAHHHHHH!!!"
+            ],
+            "labcommentcalm": [
+                "Grrhh....ngrhhr...",
+                "Ngrrhhh...",
+                "Food...food...come...",
+                "Du-ne...kill...all...",
+                "Fee-st...co-me..."
+            ],
+            "labcommentcombat": [
+                "NNGRRAAHHHHH!",
+                "GGRAAGHHH! GRRRRRHHH!!!",
+                "NNRRUUAAAAARRGHHHH!!",
+                "DE-ATH CO-ME!!!",
+                "CO-ME TO DU-NE!!!",
+                "DU-NE FE-AST ON F-LESH!!!"
             ],
             "tradermeetnormal": [
                 "Mmm... Hall-o....",
@@ -6648,7 +6927,7 @@
             "Twoje złudzenie, że masz jakąkolwiek kontrolę jest przezabawne. Kontynuuj.",
             "Czy naprawdę myślisz, że ta rzecz jest warta całego zachodu zejścia tam na samo dno? Mogę zrobić tego więcej.",
             "Czy czujesz, że masz jakąkolwiek kontrolę?",
-            "Nigdy nie pojąłbyś powagi tego wszystkiego.",
+            "Nie jesteś nawet w stanie pojąć wagi tego wszystkiego.",
             "Tyle pewności w swoją inteligencję. Urocze."
         ],
         "depressed": [
@@ -6663,11 +6942,26 @@
             "Jesteś zbyt odporny dla swojego dobra.",
             "Oh, ty biedaczyno."
         ],
-        "<spoiler>": [
-            "<spoiler>"
+        "cargoembedded": [
+            "Well done.",
+            "Took you long enough.",
+            "This is not a race, but do hurry.",
+            "Ready to start taking this seriously?",
+            "I suppose miracles do happen."
         ],
-        "<spoiler2>": [
-            "<spoiler>"
+        "labescape": [
+            "Show them what you're made of.",
+            "See if it makes a difference.",
+            "Do you believe this will change your fate?",
+            "I am still here.",
+            "Keep going. What else can you do?",
+            "How interesting. Please continue.",
+            "An amusing display of emotion.",
+            "Fascinating. Continue.",
+            "What an amusing attempt. Continue!",
+            "Come on, keep going!",
+            "Doesn't it feel amazing?",
+            "Aren't you so proud of yourself?"
         ],
         "combat": [
             "Wygląda na to że świetnie się bawisz.",
@@ -6685,13 +6979,12 @@
             "Nie lubię takiego zachowania.",
             "Przez ciebie zacznie mnie boleć głowa...",
             "Czy ty to robisz specjalnie? Skończ to już.",
-            "Hej, już zmierzaliśmy do najlepszego momentu!",
-            "Jeśli nie zamierzasz grać, to podaj kontroler!"
+            "Hej, już zmierzaliśmy do najlepszego momentu!"
         ],
         "combatelder": [
-            "To nie może być nic dobrego.",
+            "Nie wróży to dobrze.",
             "Uciekaj!",
-            "To chyba jest pilne.",
+            "To chyba pilne.",
             "Skup się.",
             "Skorzystaj z tego czasu mądrze.",
             "Powinieneś zobaczyć tą minę na swej twarzy!",
