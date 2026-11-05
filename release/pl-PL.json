@@ -1167,8 +1167,8 @@
         "depression4dsc": "<i>Jak to jest wiedzieć, że stąd już nie wrócisz..?",
         "trauma1dsc": "Coś złego się stało, naprawdę nie chcesz znowu tego doświadczyć. Radość trochę zmniejszona.",
         "trauma2dsc": "Ostatnie zdarzenia zostawiły cię z traumą i poczuciem niepokoju. Chwiejnie się czujesz. NAPRAWDĘ nie chcesz znowu przez to przejść. Radość zmniejszona.",
-        "trauma3dsc": "Czujesz panikę i przerażenie. Wizje przeżytej zgrozy błyskają ci przed oczyma. Chcesz uciec w JAKIKOLWIEK sposób...  Trochę minie zanim ta rana na umyśle się zaleczy. Radość znacząco zmniejszona.",
-        "trauma4dsc": "Przerażenie. Bezradność. Przygnębienie. Nie wydusisz siebie ani słowa. Radość poważnie zmniejszona.",
+        "trauma3dsc": "Czujesz panikę i przerażenie. Wizje przeżytej zgrozy błyskają ci przed oczyma. Chcesz uciec w JAKIKOLWIEK sposób... Trochę minie zanim ta rana na umyśle się zaleczy. Radość znacząco zmniejszona.",
+        "trauma4dsc": "Przerażenie. Bezradność. Przygnębienie. Nie wydusisz z siebie ani słowa. Radość poważnie zmniejszona.",
         "happy1dsc": "Jest ci dość dobrze tu i teraz.",
         "happy2dsc": "Nie możesz doczekać się tego, co może czekać za rogiem.",
         "happy3dsc": "Poczucie spokoju i szczęścia w tym dziwnym miejscu.",
@@ -6982,7 +6982,7 @@
             "Hej, już zmierzaliśmy do najlepszego momentu!"
         ],
         "combatelder": [
-            "To nie może być nic dobrego.",
+            "Nie wróży to dobrze.",
             "Uciekaj!",
             "To chyba pilne.",
             "Skup się.",
